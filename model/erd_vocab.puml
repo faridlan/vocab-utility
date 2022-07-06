@@ -1,0 +1,64 @@
+@startuml erd_vocab
+
+entity "roles" as r {
+  *Id : int <<generated>>
+  --
+  name : string
+}
+
+entity "users" as u {
+  *Id : int <<generated>>
+  --
+  username : string
+  email : string
+  password : string
+  role_id : int
+}
+
+entity "words" as w {
+  *Id : int <<generated>>
+  --
+  word : string
+  pos_id : int
+  sentence_id : int
+}
+
+entity "pos" as p {
+  *Id : int <<generated>>
+  --
+  desc : string
+  alias : string 
+}
+
+entity "sentences" as s {
+  *Id : int <<generated>>
+  --
+  sentence : string
+  image_url : string 
+}
+
+entity "words_acc" as wac {
+  *Id : int <<generated>>
+  --
+  word_id : string
+  user_id : string 
+}
+
+entity "words_add" as wad {
+  *Id : int <<generated>>
+  --
+  word : string
+  pos_id : int 
+  sentence_id : int
+}
+
+r ||--|{ u
+w ||--|| s
+wad ||--|| s
+p ||--|{ w
+p ||--|{ wad
+u ||--|{ wac
+w ||--|{ wac
+wad ||--|{ wac
+
+@enduml

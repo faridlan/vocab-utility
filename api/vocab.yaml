@@ -1,0 +1,666 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: REST API Spec Vocab Nostra
+  description: REST API Spec Fro Vocab Nostra
+  contact:
+    name: Faridlan Nul Hakim
+    email: faridlannulhakim@gmail.com
+
+servers:
+  - description: REST API Vocab
+    url: http://localhost:3000/api
+
+paths:
+  /roles:
+    get:
+      tags:
+        - "Roles"
+      summary: "Get Roles"
+      description: "Get All Roles"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get Roles
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/roleResponses"
+    post:
+      tags:
+        - "Roles"
+      summary: "Post A Role"
+      description: "Post A Role To Database"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/roleCreate"
+      responses:
+        200:
+          description: Success Post A Role
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/roleResponse"
+  /users:
+    get:
+      tags:
+        - "Users"
+      summary: "Get Users"
+      description: "Get All Users"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get Users
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/userResponses"
+    post:
+      tags:
+        - "Users"
+      summary: "Post A User"
+      description: "Post A User To Database"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/userCreate"
+      responses:
+        200:
+          description: Success Post A User
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/userResponse"
+  /users/{id}:
+    get:
+      tags:
+        - "Users"
+      summary: "Get User"
+      description: "Get A User"
+      parameters:
+        - name: userId
+          in: path
+          description: use userId to get a user
+          required: true
+          schema:
+            type: integer
+      responses:
+        200:
+          description: Success Get User
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/userResponse"
+  /words:
+    get:
+      tags:
+        - "Words"
+      summary: "Get Words"
+      description: "Get Some Words From Database"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get Words
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/wordResponses"
+  /words-add:
+    get:
+      tags:
+        - "Words Add"
+      summary: "Get Words Additional"
+      description: "Get Some Words Additional From Database"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get Words
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/wordResponses"
+    post:
+      tags:
+        - "Words Add"
+      summary: "Post Word Additional"
+      description: "Post Word Additional To Database"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/wordAddCreateOrUpdate"
+      responses:
+        200:
+          description: Success Post A Word
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/wordResponse"
+  /words-add/{id}:
+    put:
+      tags:
+        - "Words Add"
+      summary: "Put or Update Words Additional"
+      description: "Update Word Additional To Database"
+      parameters:
+        - name: wordId
+          in: path
+          description: use wordId from get a word
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/wordAddCreateOrUpdate"
+      responses:
+        200:
+          description: Success Get Words
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/wordResponse"
+    delete:
+      tags:
+        - "Words Add"
+      summary: "Delete Words Additional"
+      description: "Delete Some Words Additional From Database"
+      parameters:
+        - name: wordId
+          in: path
+          description: use wordId from get a word
+          required: true
+          schema:
+            type: integer
+      responses:
+        200:
+          description: Success Delete Some Words
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                    example: 200
+                  status:
+                    type: string
+                    example: OK
+  /words-acc:
+    get:
+      tags:
+        - "Words Acc"
+      summary: "Get Words Accomplishment"
+      description: "Get Some Words Accomplishment For User From Database"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get Words
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/wordResponses"
+    post:
+      tags:
+        - "Words Acc"
+      summary: "Post Word Additional"
+      description: "Post Word Additional To Database"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/wordAccCreateOrUpdate"
+      responses:
+        200:
+          description: Success Post A Word
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/wordResponse"
+  /sentences:
+    get:
+      tags:
+        - "Sentences"
+      summary: "Get Sentences"
+      description: "Get Some Sentences From Database"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get Sentences
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/sentenceResponses"
+    post:
+      tags:
+        - "Sentences"
+      summary: "Post A Sentence"
+      description: "Post A Sentence To Database"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/sentenceCreateOrUpdate"
+      responses:
+        200:
+          description: Success Post A Sentence
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/sentenceResponse"
+  /sentences/{id}:
+    get:
+      tags:
+        - "Sentences"
+      summary: "Get Sentence"
+      description: "Get A Sentence From Database"
+      parameters:
+        - $ref: "#/components/parameters/sentenceId"
+      responses:
+        200:
+          description: Success Get A Sentence
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/sentenceResponse"
+    put:
+      tags:
+        - "Sentences"
+      summary: "Put or Update A Sentence"
+      description: "Update A Sentence To Database"
+      parameters:
+        - $ref: "#/components/parameters/sentenceId"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/sentenceCreateOrUpdate"
+      responses:
+        200:
+          description: Success Update A Sentence
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/sentenceResponse"
+    delete:
+      tags:
+        - "Sentences"
+      summary: "Delete A Sentence"
+      description: "Delete A Sentence From Database"
+      parameters:
+        - $ref: "#/components/parameters/sentenceId"
+      responses:
+        200:
+          description: Success Delete A Sentence
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                    example: 200
+                  status:
+                    type: string
+                    example: OK
+  /pos:
+    get:
+      tags:
+        - "Part Of Speech"
+      summary: "Get POS"
+      description: "Get Some POS From Database"
+      parameters:
+        - $ref: "#/components/parameters/offsetParam"
+        - $ref: "#/components/parameters/limitParam"
+      responses:
+        200:
+          description: Success Get POS
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/posResponses"
+    post:
+      tags:
+        - "Part Of Speech"
+      summary: "Post POS"
+      description: "Post POS To Database"
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/posCreateOrUpdate"
+      responses:
+        200:
+          description: Success Post A POS
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/posResponse"
+  /pos/{id}:
+    put:
+      tags:
+        - "Part Of Speech"
+      summary: "Put or Update POS"
+      description: "Update POS To Database"
+      parameters:
+        - name: posId
+          in: path
+          description: use posId to get a pos
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        description: "Send data from request body"
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/posCreateOrUpdate"
+      responses:
+        200:
+          description: Success Update POS
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/posResponse"
+    delete:
+      tags:
+        - "Part Of Speech"
+      summary: "Delete POS"
+      description: "Delete Some POS From Database"
+      parameters:
+        - name: posId
+          in: path
+          description: use posId to get a pos
+          required: true
+          schema:
+            type: integer
+      responses:
+        200:
+          description: Success Delete Some POS
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: integer
+                    example: 200
+                  status:
+                    type: string
+                    example: OK
+components:
+  # securitySchemes:
+  #   BasicAuth:
+  #     type: http
+  #     scheme: basic
+  parameters:
+    offsetParam: 
+      name: page
+      in: query
+      description: page number (Default is 1)
+      required: false
+      schema:
+        type: integer
+        example: 1
+    limitParam:
+      name: limit
+      in: query
+      description: limit list words (Default is 10)
+      required: false
+      schema:
+        type: integer
+        example: 10
+    sentenceId:
+      name: sentenceId
+      in: path
+      description: use sentenceId to get a sentence 
+      required: true
+      schema:
+        type: integer
+  schemas:
+    roleCreate:
+      type: object
+      properties:
+        name:
+          type: string
+    roles:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+    roleResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          $ref: "#/components/schemas/roles"
+    roleResponses:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/roles" 
+    userCreate:
+      type: object
+      properties:
+        username:
+          type: string
+        email:
+          type: string
+        password:
+          type: string
+        role_id:
+          type: integer
+    users:
+      type: object
+      properties:
+        id:
+          type: integer
+        username:
+          type: string
+        email:
+          type: string
+        role_id:
+          type: integer
+    userResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          $ref: "#/components/schemas/users"
+    userResponses:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/users"  
+    wordAddCreateOrUpdate:
+      type: object
+      properties:
+        word:
+          type: string
+        pos_id:
+          type: integer
+    words:
+      type: object
+      properties:
+        id:
+          type: integer
+        word:
+          type: string
+        pos:
+          $ref: "#/components/schemas/pos"
+        sentence:
+          $ref: "#/components/schemas/sentences"
+    wordResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          $ref: "#/components/schemas/words"
+    wordResponses:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/words"   
+    wordAccCreateOrUpdate:
+      type: object
+      properties:
+        word_id:
+          type: integer
+        user_id:
+          type: integer
+    sentenceCreateOrUpdate:
+      type: object
+      properties:
+        sentence:
+          type: string
+        image_url:
+          type: string
+    sentences:
+      type: object
+      properties:
+        id:
+          type: integer
+        sentence:
+          type: string
+        image_url:
+          type: string
+    sentenceResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          $ref: "#/components/schemas/sentences"
+    sentenceResponses:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/sentences"
+    posCreateOrUpdate:
+      type: object
+      properties:
+        desc:
+          type: string
+        alias:
+          type: string
+    pos:
+      type: object
+      properties:
+        id:
+          type: integer
+        desc:
+          type: string
+        alias:
+          type: string
+    posResponse:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          $ref: "#/components/schemas/pos"
+    posResponses:
+      type: object
+      properties:
+        code:
+          type: integer
+          example: 200
+        status:
+          type: string
+          example: OK
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/pos"
+# security:
+#   - BasicAuth: []
