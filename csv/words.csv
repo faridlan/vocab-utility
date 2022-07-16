@@ -1,0 +1,5001 @@
+﻿id;  word;pos;translate
+1;   the;a;itu, sang, -nya
+2;   be;v;menjadi
+3;   and;c;dan
+4;   of;i;dari
+5;   a;a;Sebuah
+6;   in;i;di
+7;   to;t;menuju / kepada
+8;   have;v;memiliki
+9;   to;i;menuju / kepada
+10;   it;p;ini (benda)
+11;   I;p;saya
+12;   that;c;bahwa
+13;   for;i;untuk
+14;   you;p;kamu
+15;   he;p;dia (laki-laki)
+16;   with;i;dengan
+17;   on;i;di
+18;   do;v;melakukan
+19;   say;v;mengatakan
+20;   this;d;ini
+21;   they;p;mereka
+22;   at;i;di
+23;   but;c;tapi
+24;   we;p;kita
+25;   his;a;-nya (laki-laki)
+26;   from;i;dari
+27;   that;d;itu
+28;   not;x;tidak
+29;   n't;x;tidak
+30;   by;i;oleh
+31;   she;p;dia (perempuan)
+32;   or;c;atau
+33;   as;c;sebagai
+34;   what;d;apa
+35;   go;v;pergi
+36;   their;a;milik mereka
+37;   can;v;bisa
+38;   who;p;siapa
+39;   get;v;mendapatkan
+40;   if;c;jika
+41;   would;v;akan
+42;   her;a;-nya (perempuan)
+43;   all;d;semua
+44;   my;a;-ku, milik saya
+45;   make;v;membuat
+46;   about;i;tentang
+47;   know;v;tahu
+48;   will;v;akan
+49;   as;i;sebagai
+50;   up;r;ke atas
+51;   one;m;satu
+52;   time;n;waktu
+53;   there;e;nah
+54;   year;n;tahun
+55;   so;r;amat
+56;   think;v;berpikir
+57;   when;c;ketika
+58;   which;d;yang mana
+59;   them;p;mereka (objek)
+60;   some;d;beberapa
+61;   me;p;saya (objek)
+62;   people;n;orang-orang
+63;   take;v;mengambil
+64;   out;r;di luar, ke luar
+65;   into;i;ke dalam
+66;   just;r;hanya
+67;   see;v;lihat
+68;   him;p;dia (laki-laki objek)
+69;   your;a;-mu
+70;   come;v;datang
+71;   could;v;bisa
+72;   now;r;sekarang
+73;   than;c;daripada
+74;   like;i;seperti
+75;   other;j;lain
+76;   how;r;bagaimana
+77;   then;r;kemudian
+78;   its;a;-nya, milik benda/binatang
+79;   our;a;-kami, milik kami
+80;   two;m;dua
+81;   more;r;lebih
+82;   these;d;ini (jamak)
+83;   want;v;ingin
+84;   way;n;cara
+85;   look;v;melihat
+86;   first;m;pertama
+87;   also;r;juga
+88;   new;j;baru
+89;   because;c;karena
+90;   day;n;hari
+91;   more;d;lebih
+92;   use;v;menggunakan
+93;   no;a;tidak
+94;   man;n;manusia
+95;   find;v;menemukan
+96;   here;r;sini
+97;   thing;n;benda
+98;   give;v;memberikan
+99;   many;d;banyak
+100;   well;r;baik
+101;   only;r;hanya
+102;   those;d;itu (jamak)
+103;   tell;v;menceritakan
+104;   one;p;satu
+105;   very;r;sangat
+106;   her;p;-nya (perempuan)
+107;   even;r;bahkan
+108;   back;r;kembali
+109;   any;d;apa saja
+110;   good;j;baik
+111;   woman;n;wanita
+112;   through;i;melalui
+113;   us;p;kami (objek)
+114;   life;n;kehidupan
+115;   child;n;anak
+116;   there;r;sana
+117;   work;v;mengerjakan
+118;   down;r;turun
+119;   may;v;boleh
+120;   after;i;setelah
+121;   should;v;seharusnya
+122;   call;v;memanggil
+123;   world;n;dunia
+124;   over;i;lebih
+125;   school;n;sekolah
+126;   still;r;masih
+127;   try;v;mencoba
+128;   in;r;di
+129;   as;r;sebagai
+130;   last;m;terakhir
+131;   ask;v;meminta
+132;   need;v;memerlukan
+133;   too;r;terlalu
+134;   feel;v;merasa
+135;   three;m;tiga
+136;   when;r;kapan
+137;   state;n;negara
+138;   never;r;tak pernah
+139;   become;v;menjadi
+140;   between;i;antara
+141;   high;j;tinggi
+142;   really;r;sangat
+143;   something;p;sesuatu
+144;   most;r;paling
+145;   another;d;lain
+146;   much;d;banyak
+147;   family;n;keluarga
+148;   own;d;sendiri
+149;   out;i;di luar
+150;   leave;v;meninggalkan
+151;   put;v;menaruh
+152;   old;j;tua
+153;   while;c;sementara
+154;   mean;v;bermaksud
+155;   on;r;di
+156;   keep;v;menjaga
+157;   student;n;mahasiswa
+158;   why;r;mengapa
+159;   let;v;membiarkan
+160;   great;j;besar
+161;   same;d;sama
+162;   big;j;besar
+163;   group;n;kelompok
+164;   begin;v;memulai
+165;   seem;v;terlihat
+166;   country;n;negara
+167;   help;v;membantu
+168;   talk;v;berbicara
+169;   where;c;dimana
+170;   turn;v;belok
+171;   problem;n;masalah
+172;   every;a;setiap
+173;   start;v;memulai
+174;   hand;n;tangan
+175;   might;v;mungkin
+176;   american;j;orang amerika
+177;   show;v;menunjukkan
+178;   part;n;bagian
+179;   about;r;tentang
+180;   against;i;melawan
+181;   place;n;tempat
+182;   over;r;lebih
+183;   such;d;seperti itu
+184;   again;r;lagi
+185;   few;d;beberapa
+186;   case;n;kasus
+187;   most;d;sebagian besar
+188;   week;n;minggu
+189;   company;n;perusahaan
+190;   where;r;di mana
+191;   system;n;sistem
+192;   each;d;tiap
+193;   right;r;tepat
+194;   program;n;program
+195;   hear;v;mendengar
+196;   so;c;begitu
+197;   question;n;pertanyaan
+198;   during;i;selama
+199;   work;n;kerja
+200;   play;v;bermain
+201;   government;n;pemerintah
+202;   run;v;lari
+203;   small;j;kecil
+204;   number;n;angka
+205;   off;r;keluar
+206;   always;r;selalu
+207;   move;v;pindah
+208;   like;v;menyukai
+209;   night;n;malam
+210;   live;v;hidup
+211;   Mr;n;Bapak
+212;   point;n;titik
+213;   believe;v;percaya
+214;   hold;v;memegang
+215;   today;r;hari ini
+216;   bring;v;membawa
+217;   happen;v;terjadi
+218;   next;m;berikutnya
+219;   without;i;tanpa
+220;   before;i;sebelum
+221;   large;j;besar
+222;   all;r;semua
+223;   million;m;juta
+224;   must;v;harus
+225;   home;n;rumah
+226;   under;i;di bawah
+227;   water;n;air
+228;   room;n;kamar
+229;   write;v;menulis
+230;   mother;n;ibu
+231;   area;n;daerah
+232;   national;j;nasional
+233;   money;n;uang
+234;   story;n;cerita
+235;   young;j;muda
+236;   fact;n;fakta
+237;   month;n;bulan
+238;   different;j;berbeda
+239;   lot;n;sekumpulan
+240;   right;n;hak
+241;   study;n;belajar
+242;   book;n;buku
+243;   eye;n;mata
+244;   job;n;pekerjaan
+245;   word;n;kata
+246;   though;c;meskipun
+247;   business;n;bisnis
+248;   issue;n;isu
+249;   side;n;sisi
+250;   kind;n;jenis
+251;   four;m;empat
+252;   head;n;kepala
+253;   far;r;jauh
+254;   black;j;hitam
+255;   long;j;panjang
+256;   both;d;keduanya
+257;   little;j;sedikit
+258;   house;n;rumah
+259;   yes;u;iya nih
+260;   after;c;setelah
+261;   since;c;sejak
+262;   long;r;panjang
+263;   provide;v;menyediakan
+264;   service;n;layanan
+265;   around;i;sekitar
+266;   friend;n;teman
+267;   important;j;penting
+268;   father;n;ayah
+269;   sit;v;duduk
+270;   away;r;jauh
+271;   until;c;sampai
+272;   power;n;kekuasaan
+273;   hour;n;jam
+274;   game;n;permainan
+275;   often;r;sering
+276;   yet;r;masih
+277;   line;n;garis
+278;   political;j;politik
+279;   end;n;akhir
+280;   among;i;antara
+281;   ever;r;pernah
+282;   stand;v;berdiri
+283;   bad;j;buruk
+284;   lose;v;kalah
+285;   however;r;namun
+286;   member;n;anggota
+287;   pay;v;membayar
+288;   law;n;hukum
+289;   meet;v;memenuhi
+290;   car;n;mobil
+291;   city;n;kota
+292;   almost;r;hampir
+293;   include;v;termasuk
+294;   continue;v;meneruskan
+295;   set;v;menyusun
+296;   later;r;kemudian
+297;   community;n;masyarakat
+298;   much;r;banyak
+299;   name;n;nama
+300;   five;m;lima
+301;   once;r;sekali
+302;   white;j;putih
+303;   least;r;paling sedikit
+304;   president;n;presiden
+305;   learn;v;belajar
+306;   real;j;nyata
+307;   change;v;mengubah
+308;   team;n;tim
+309;   minute;n;menit
+310;   best;j;terbaik
+311;   several;d;beberapa
+312;   idea;n;ide
+313;   kid;n;anak
+314;   body;n;tubuh
+315;   information;n;informasi
+316;   nothing;p;tidak ada
+317;   ago;r;yang lalu
+318;   right;j;kanan
+319;   lead;v;memimpin
+320;   social;j;sosial
+321;   understand;v;memahami
+322;   whether;c;apakah
+323;   back;n;kembali
+324;   watch;v;menonton
+325;   together;r;bersama
+326;   follow;v;mengikuti
+327;   around;r;sekitar
+328;   parent;n;induk
+329;   only;j;hanya
+330;   stop;v;berhenti
+331;   face;n;muka
+332;   anything;p;apa pun
+333;   create;v;membuat
+334;   public;j;umum
+335;   already;r;sudah
+336;   speak;v;berbicara
+337;   others;n;lainnya
+338;   read;v;membaca
+339;   level;n;tingkat
+340;   allow;v;mengizinkan
+341;   add;v;menambahkan
+342;   office;n;kantor
+343;   spend;v;menghabiskan
+344;   door;n;pintu
+345;   health;n;kesehatan
+346;   person;n;orang
+347;   art;n;seni
+348;   sure;j;yakin
+349;   such;i;seperti itu
+350;   war;n;perang
+351;   history;n;sejarah
+352;   party;n;pesta
+353;   within;i;dalam
+354;   grow;v;tumbuh
+355;   result;n;hasil
+356;   open;v;membuka
+357;   change;n;perubahan
+358;   morning;n;pagi
+359;   walk;v;berjalan
+360;   reason;n;alasan
+361;   low;j;rendah
+362;   win;v;menang
+363;   research;n;penelitian
+364;   girl;n;gadis
+365;   guy;n;pria
+366;   early;j;awal
+367;   food;n;makanan
+368;   before;c;sebelum
+369;   moment;n;saat
+370;   himself;p;dirinya sendiri (dirinya)
+371;   air;n;udara
+372;   teacher;n;guru
+373;   force;n;kekuatan
+374;   offer;v;menawarkan
+375;   enough;r;cukup
+376;   both;r;keduanya
+377;   education;n;pendidikan
+378;   across;i;di sebrang
+379;   although;c;meskipun
+380;   remember;v;ingat
+381;   foot;n;kaki
+382;   second;m;kedua
+383;   boy;n;anak laki-laki
+384;   maybe;r;mungkin
+385;   toward;i;menuju
+386;   able;j;sanggup
+387;   age;n;usia
+388;   off;i;keluar
+389;   policy;n;kebijakan
+390;   everything;p;segala sesuatu
+391;   love;v;mencintai
+392;   process;n;proses
+393;   music;n;musik
+394;   including;i;termasuk
+395;   consider;v;mempertimbangkan
+396;   appear;v;muncul
+397;   actually;r;sebenarnya
+398;   buy;v;membeli
+399;   probably;r;mungkin
+400;   human;j;manusiawi
+401;   wait;v;tunggu
+402;   serve;v;melayani
+403;   market;n;pasar
+404;   die;v;mati
+405;   send;v;kirim
+406;   expect;v;mengharapkan
+407;   home;r;ke/di rumah
+408;   sense;n;rasa
+409;   build;v;membangun
+410;   stay;v;tinggal
+411;   fall;v;jatuh
+412;   oh;u;oh
+413;   nation;n;bangsa
+414;   plan;n;rencana
+415;   cut;v;memotong
+416;   college;n;perguruan tinggi
+417;   interest;n;kepentingan
+418;   death;n;kematian
+419;   course;r;tentu saja
+420;   someone;p;seseorang
+421;   experience;n;pengalaman
+422;   behind;i;di belakang
+423;   reach;v;mencapai
+424;   local;j;setempat
+425;   kill;v;membunuh
+426;   six;m;enam
+427;   remain;v;tersisa
+428;   effect;n;efek
+429;   use;n;penggunaan
+430;   yeah;u;ya
+431;   suggest;v;menyarankan
+432;   class;n;kelas
+433;   control;n;pengendalian
+434;   raise;v;menaikkan
+435;   care;n;perawatan
+436;   perhaps;r;mungkin
+437;   little;r;sedikit
+438;   late;j;terlambat
+439;   hard;j;keras
+440;   field;n;bidang
+441;   else;r;lain
+442;   pass;v;melalui
+443;   former;d;bekas
+444;   sell;v;menjual
+445;   major;j;utama
+446;   sometimes;r;terkadang
+447;   require;v;memerlukan
+448;   along;i;sepanjang
+449;   development;n;pengembangan
+450;   themselves;p;mereka sendiri
+451;   report;v;melaporkan
+452;   role;n;peran
+453;   better;j;lebih baik
+454;   economic;j;ekonomis
+455;   effort;n;upaya
+456;   up;i;naik
+457;   decide;v;memutuskan
+458;   rate;n;laju
+459;   strong;j;kuat
+460;   possible;j;mungkin
+461;   heart;n;jantung
+462;   drug;n;obat
+463;   show;n;pertunjukan
+464;   leader;n;pemimpin
+465;   light;n;cahaya
+466;   voice;n;suara
+467;   wife;n;istri
+468;   whole;j;seluruh
+469;   police;n;polisi
+470;   mind;n;pikiran
+471;   finally;r;akhirnya
+472;   pull;v;menarik
+473;   return;v;kembali
+474;   free;j;bebas
+475;   military;j;kemiliteran
+476;   price;n;harga
+477;   report;n;laporan
+478;   less;r;kurang
+479;   according;i;mengacu
+480;   decision;n;keputusan
+481;   explain;v;menjelaskan
+482;   son;n;putra
+483;   hope;v;berharap
+484;   even;c;bahkan
+485;   develop;v;mengembangkan
+486;   view;n;pemandangan
+487;   relationship;n;hubungan
+488;   carry;v;memuat
+489;   town;n;kota
+490;   road;n;jalan
+491;   drive;v;mengendarai
+492;   arm;n;lengan
+493;   true;j;benar
+494;   federal;j;federal
+495;   break;v;beristirahat
+496;   better;r;lebih baik
+497;   difference;n;perbedaan
+498;   thank;v;berterima kasih
+499;   receive;v;menerima
+500;   value;n;nilai
+501;   international;j;internasional
+502;   building;n;bangunan
+503;   action;n;tindakan
+504;   full;j;penuh
+505;   model;n;model
+506;   join;v;ikut
+507;   season;n;musim
+508;   society;n;masyarakat
+509;   because;i;karena
+510;   tax;n;pajak
+511;   director;n;direktur
+512;   early;r;lebih awal (dari biasanya)
+513;   position;n;posisi
+514;   player;n;pemain
+515;   agree;v;setuju
+516;   especially;r;terutama
+517;   record;n;catatan
+518;   pick;v;memetik
+519;   wear;v;memakai
+520;   paper;n;kertas
+521;   special;j;khusus
+522;   space;n;ruang
+523;   ground;n;tanah
+524;   form;n;bentuk
+525;   support;v;mendukung
+526;   event;n;peristiwa
+527;   official;n;pejabat
+528;   whose;d;yang
+529;   matter;n;masalah
+530;   everyone;p;semua orang
+531;   center;n;pusat
+532;   couple;n;pasangan
+533;   site;n;situs
+534;   end;v;mengakhiri
+535;   project;n;proyek
+536;   hit;v;memukul
+537;   base;v;mendasarkan
+538;   activity;n;aktivitas
+539;   star;n;bintang
+540;   table;n;meja
+541;   need;n;kebutuhan
+542;   court;n;pengadilan
+543;   produce;v;menghasilkan
+544;   eat;v;makan
+545;   American;n;orang amerika
+546;   teach;v;mengajar
+547;   oil;n;minyak
+548;   half;d;setengah
+549;   situation;n;situasi
+550;   easy;j;mudah
+551;   cost;n;biaya
+552;   industry;n;industri
+553;   figure;n;angka
+554;   face;v;menghadapi
+555;   street;n;jalan
+556;   image;n;gambar
+557;   itself;p;itu sendiri
+558;   phone;n;telepon
+559;   either;r;antara
+560;   data;n;data
+561;   cover;v;menutup
+562;   quite;r;cukup
+563;   picture;n;gambar
+564;   clear;j;bersih
+565;   practice;n;latihan
+566;   piece;n;bagian
+567;   land;n;lahan
+568;   recent;j;baru
+569;   describe;v;menggambarkan
+570;   product;n;produk
+571;   doctor;n;dokter
+572;   wall;n;dinding
+573;   patient;n;pasien
+574;   worker;n;pekerja
+575;   news;n;berita
+576;   test;n;ujian
+577;   movie;n;film
+578;   certain;j;tertentu
+579;   north;n;utara
+580;   love;n;cinta
+581;   personal;j;perorangan
+582;   open;j;terbuka
+583;   support;n;dukungan
+584;   simply;r;secara sederhana
+585;   third;m;ketiga
+586;   technology;n;teknologi
+587;   catch;v;menangkap
+588;   step;n;langkah
+589;   baby;n;bayi
+590;   computer;n;komputer
+591;   type;n;tipe
+592;   attention;n;perhatian
+593;   draw;v;menggambar
+594;   film;n;film
+595;   Republican;n;republik
+596;   tree;n;pohon
+597;   source;n;sumber
+598;   red;j;merah
+599;   nearly;r;hampir
+600;   organization;n;organisasi
+601;   choose;v;memilih
+602;   cause;v;menyebabkan
+603;   hair;n;rambut
+604;   look;n;pandangan
+605;   point;v;menunjuk
+606;   century;n;abad
+607;   evidence;n;bukti
+608;   window;n;jendela
+609;   difficult;j;sulit
+610;   listen;v;mendengarkan
+611;   soon;r;segera
+612;   culture;n;budaya
+613;   billion;m;milyar
+614;   chance;n;kesempatan
+615;   brother;n;saudara
+616;   energy;n;energi
+617;   period;n;periode
+618;   course;n;mata kuliah
+619;   summer;n;musim panas
+620;   less;d;kurang
+621;   realize;v;menyadari
+622;   hundred;m;ratus
+623;   available;j;tersedia
+624;   plant;n;tanaman
+625;   likely;j;mungkin
+626;   opportunity;n;kesempatan
+627;   term;n;istilah
+628;   short;j;pendek
+629;   letter;n;surat
+630;   condition;n;kondisi
+631;   choice;n;pilihan
+632;   place;v;menempatkan
+633;   single;j;tunggal
+634;   rule;n;aturan
+635;   daughter;n;putri
+636;   administration;n;administrasi
+637;   south;n;selatan
+638;   husband;n;suami
+639;   congress;n;kongres
+640;   floor;n;lantai
+641;   campaign;n;kampanye
+642;   material;n;bahan
+643;   population;n;populasi
+644;   well;i;baik
+645;   call;n;panggilan
+646;   economy;n;ekonomi
+647;   medical;j;medis
+648;   hospital;n;rumah sakit
+649;   church;n;gereja
+650;   close;v;menutup
+651;   thousand;m;ribu
+652;   risk;n;risiko
+653;   current;j;sekarang ini
+654;   fire;n;api
+655;   future;n;masa depan
+656;   wrong;j;salah
+657;   involve;v;melibatkan
+658;   defense;n;pertahanan
+659;   anyone;p;siapa saja
+660;   increase;v;meningkat
+661;   security;n;keamanan
+662;   bank;n;bank
+663;   myself;p;saya sendiri
+664;   certainly;r;pasti
+665;   west;n;barat
+666;   sport;n;olahraga
+667;   board;n;papan
+668;   seek;v;mencari
+669;   per;i;per
+670;   subject;n;subyek
+671;   officer;n;petugas
+672;   private;j;pribadi
+673;   rest;n;sisa
+674;   behavior;n;tingkah laku
+675;   deal;v;berurusan
+676;   performance;n;kinerja
+677;   fight;v;bertarung
+678;   throw;v;melemparkan
+679;   top;n;puncak
+680;   quickly;r;segera
+681;   past;j;yang lalu
+682;   goal;n;tujuan
+683;   second;n;detik
+684;   bed;n;tempat tidur
+685;   order;n;pesanan
+686;   author;n;penulis
+687;   fill;v;mengisi
+688;   represent;v;mewakili
+689;   focus;v;memusatkan
+690;   foreign;j;asing
+691;   drop;v;menurunkan
+692;   plan;v;merencanakan
+693;   blood;n;darah
+694;   upon;i;di atas
+695;   agency;n;agen
+696;   push;v;mendorong
+697;   nature;n;alam
+698;   color;n;warna
+699;   no;r;tidak
+700;   recently;r;baru saja
+701;   store;n;toko
+702;   reduce;v;mengurangi
+703;   sound;n;suara
+704;   note;v;mencatat
+705;   fine;j;baik
+706;   before;r;sebelum
+707;   near;i;dekat
+708;   movement;n;pergerakan
+709;   page;n;halaman
+710;   enter;v;memasukkan
+711;   share;v;membagikan
+712;   than;i;dari
+713;   common;j;umum
+714;   poor;j;miskin
+715;   other;p;lainnya
+716;   natural;j;alam
+717;   race;n;ras
+718;   concern;n;perhatian
+719;   series;n;seri
+720;   significant;j;penting
+721;   similar;j;serupa
+722;   hot;j;panas
+723;   language;n;bahasa
+724;   each;p;setiap
+725;   usually;r;biasanya
+726;   response;n;tanggapan
+727;   dead;j;mati
+728;   rise;v;naik
+729;   animal;n;hewan
+730;   factor;n;faktor
+731;   decade;n;dasawarsa
+732;   article;n;artikel
+733;   shoot;v;menembak
+734;   east;n;timur
+735;   save;v;menyimpan
+736;   seven;m;tujuh
+737;   artist;n;artis
+738;   away;i;jauh
+739;   scene;n;adegan
+740;   stock;n;persediaan
+741;   career;n;karier
+742;   despite;i;meskipun
+743;   central;j;pusat
+744;   eight;m;delapan
+745;   thus;r;demikian
+746;   treatment;n;perlakuan
+747;   beyond;i;melampaui
+748;   happy;j;senang
+749;   exactly;r;persis
+750;   protect;v;melindungi
+751;   approach;n;pendekatan
+752;   lie;v;berbohong
+753;   size;n;ukuran
+754;   dog;n;anjing
+755;   fund;n;dana
+756;   serious;j;serius
+757;   occur;v;terjadi
+758;   media;n;media
+759;   ready;j;siap
+760;   sign;n;tanda
+761;   thought;n;pikiran
+762;   list;n;daftar
+763;   individual;n;individu
+764;   simple;j;sederhana
+765;   quality;n;kualitas
+766;   pressure;n;tekanan
+767;   accept;v;menerima
+768;   answer;n;jawaban
+769;   hard;r;dengan susah
+770;   resource;n;sumber
+771;   identify;v;mengenali
+772;   left;j;kiri
+773;   meeting;n;pertemuan
+774;   determine;v;menentukan
+775;   prepare;v;mempersiapkan
+776;   disease;n;penyakit
+777;   whatever;d;apa pun
+778;   success;n;keberhasilan
+779;   argue;v;memperdebatkan
+780;   cup;n;cangkir
+781;   particularly;r;terutama
+782;   amount;n;jumlah
+783;   ability;n;kemampuan
+784;   staff;n;staf
+785;   recognize;v;mengakui
+786;   indicate;v;menandakan
+787;   character;n;karakter
+788;   growth;n;pertumbuhan
+789;   loss;n;kerugian
+790;   degree;n;gelar
+791;   wonder;v;bertanya-tanya
+792;   attack;n;serangan
+793;   herself;p;dirinya sendiri (dirinya)
+794;   region;n;wilayah
+795;   television;n;televisi
+796;   box;n;kotak
+797;   TV;n;televisi
+798;   training;n;latihan
+799;   pretty;r;cantik
+800;   trade;n;perdagangan
+801;   deal;n;perjanjian
+802;   election;n;pemilihan
+803;   everybody;p;semua orang
+804;   physical;j;fisik
+805;   lay;v;meletakkan
+806;   general;j;umum
+807;   feeling;n;perasaan
+808;   standard;n;standar
+809;   bill;n;tagihan
+810;   message;n;pesan
+811;   fail;v;gagal
+812;   outside;i;di luar
+813;   arrive;v;tiba
+814;   analysis;n;analisis
+815;   benefit;n;manfaat
+816;   name;v;menamai
+817;   sex;n;seks
+818;   forward;r;meneruskan
+819;   lawyer;n;pengacara
+820;   present;v;menyajikan
+821;   section;n;bagian
+822;   environmental;j;lingkungan
+823;   glass;n;kaca
+824;   answer;v;menjawab
+825;   skill;n;ketrampilan
+826;   sister;n;saudara
+827;   PM;r;antara jam 12.00 sd 24.00
+828;   professor;n;profesor
+829;   operation;n;operasi
+830;   financial;j;keuangan
+831;   crime;n;kejahatan
+832;   stage;n;tahap
+833;   ok;r;baik
+834;   compare;v;membandingkan
+835;   authority;n;wewenang
+836;   miss;v;merindukan
+837;   design;n;desain
+838;   sort;n;jenis
+839;   one;n;satu
+840;   act;v;bertindak
+841;   ten;m;sepuluh
+842;   knowledge;n;pengetahuan
+843;   gun;n;senjata
+844;   station;n;stasiun
+845;   blue;j;biru
+846;   state;v;menyatakan
+847;   strategy;n;strategi
+848;   little;d;sedikit
+849;   clearly;r;jelas
+850;   discuss;v;membahas
+851;   indeed;r;memang
+852;   force;v;memaksa
+853;   truth;n;kebenaran
+854;   song;n;lagu
+855;   example;n;contoh
+856;   democratic;j;demokratis
+857;   check;v;memeriksa
+858;   environment;n;lingkungan
+859;   leg;n;kaki
+860;   dark;j;gelap
+861;   public;n;publik
+862;   various;j;berbagai
+863;   rather;r;agak
+864;   laugh;v;tertawa
+865;   guess;v;menebak
+866;   executive;n;eksekutif
+867;   set;n;set
+868;   study;v;belajar
+869;   prove;v;membuktikan
+870;   hang;v;menggantung
+871;   entire;j;seluruh
+872;   rock;n;batu
+873;   design;v;merencanakan
+874;   enough;d;cukup
+875;   forget;v;lupa
+876;   since;i;sejak
+877;   claim;v;menyatakan
+878;   note;n;catatan
+879;   remove;v;memindahkan
+880;   manager;n;manajer
+881;   help;n;membantu
+882;   close;j;dekat
+883;   sound;v;berbunyi
+884;   enjoy;v;menikmati
+885;   network;n;jaringan
+886;   legal;j;sah
+887;   religious;j;beriman
+888;   cold;j;dingin
+889;   form;v;membentuk
+890;   final;j;terakhir
+891;   main;j;utama
+892;   science;n;ilmu pengetahuan
+893;   green;j;hijau
+894;   memory;n;ingatan
+895;   card;n;kartu
+896;   above;i;atas
+897;   seat;n;kursi
+898;   cell;n;sel
+899;   establish;v;mendirikan
+900;   nice;j;bagus
+901;   trial;n;percobaan
+902;   expert;n;ahli
+903;   that;r;bahwa
+904;   spring;n;musim semi
+905;   firm;n;perusahaan
+906;   Democrat;n;demokrat
+907;   radio;n;radio
+908;   visit;v;mengunjungi
+909;   management;n;pengelolaan
+910;   care;v;peduli
+911;   avoid;v;menghindari
+912;   imagine;v;membayangkan
+913;   tonight;r;malam ini
+914;   huge;j;besar
+915;   ball;n;bola
+916;   no;u;tidak
+917;   close;r;dekat
+918;   finish;v;selesai
+919;   yourself;p;dirimu sendiri
+920;   talk;n;percakapan
+921;   theory;n;teori
+922;   impact;n;dampak
+923;   respond;v;menanggapi
+924;   statement;n;pernyataan
+925;   maintain;v;mempertahankan
+926;   charge;n;biaya
+927;   popular;j;populer
+928;   traditional;j;tradisional
+929;   onto;i;ke
+930;   reveal;v;mengungkapkan
+931;   direction;n;arah
+932;   weapon;n;senjata
+933;   employee;n;karyawan
+934;   cultural;j;kultural
+935;   contain;v;berisi
+936;   peace;n;perdamaian
+937;   head;v;kepala
+938;   control;v;mengendalikan
+939;   base;n;basis
+940;   pain;n;rasa sakit
+941;   apply;v;menerapkan
+942;   play;n;bermain
+943;   measure;n;ukuran
+944;   wide;j;lebar
+945;   shake;v;menggoyang
+946;   fly;v;terbang
+947;   interview;n;wawancara
+948;   manage;v;mengelola
+949;   chair;n;kursi
+950;   fish;n;ikan
+951;   particular;j;tertentu
+952;   camera;n;kamera
+953;   structure;n;struktur
+954;   politics;n;politik
+955;   perform;v;mempersembahkan
+956;   bit;n;satuan kecil
+957;   weight;n;berat
+958;   suddenly;r;mendadak
+959;   discover;v;menemukan
+960;   candidate;n;calon
+961;   top;j;puncak
+962;   production;n;produksi
+963;   treat;v;memperlakukan
+964;   trip;n;perjalanan
+965;   evening;n;malam
+966;   affect;v;mempengaruhi
+967;   inside;i;di dalam
+968;   conference;n;konferensi
+969;   unit;n;satuan
+970;   best;r;terbaik
+971;   style;n;gaya
+972;   adult;n;dewasa
+973;   worry;v;khawatir
+974;   range;n;jarak
+975;   mention;v;menyebut
+976;   rather;i;agak
+977;   far;j;jauh
+978;   deep;j;dalam
+979;   past;n;masa lampau
+980;   edge;n;tepi
+981;   individual;j;perorangan
+982;   specific;j;spesifik
+983;   writer;n;penulis
+984;   trouble;n;kesulitan
+985;   necessary;j;perlu
+986;   throughout;i;sepanjang
+987;   challenge;n;tantangan
+988;   fear;n;rasa takut
+989;   shoulder;n;bahu
+990;   institution;n;lembaga
+991;   middle;j;tengah
+992;   sea;n;laut
+993;   dream;n;mimpi
+994;   bar;n;bar
+995;   beautiful;j;indah
+996;   property;n;harta benda
+997;   instead;r;sebagai gantinya
+998;   improve;v;memperbarui
+999;   stuff;n;barang
+1000;   detail;n;detail
+1001;   method;n;metode
+1002;   sign;v;menandatangani
+1003;   somebody;p;seseorang
+1004;   magazine;n;majalah
+1005;   hotel;n;hotel
+1006;   soldier;n;tentara
+1007;   reflect;v;mencerminkan
+1008;   heavy;j;berat
+1009;   sexual;j;seksual
+1010;   cause;n;penyebab
+1011;   bag;n;tas
+1012;   heat;n;panas
+1013;   fall;n;musim gugur
+1014;   marriage;n;pernikahan
+1015;   tough;j;sulit
+1016;   sing;v;bernyanyi
+1017;   surface;n;permukaan
+1018;   purpose;n;tujuan
+1019;   exist;v;ada
+1020;   pattern;n;pola
+1021;   whom;p;siapa
+1022;   skin;n;kulit
+1023;   agent;n;agen
+1024;   owner;n;pemilik
+1025;   machine;n;mesin
+1026;   gas;n;gas
+1027;   down;i;ke bawah
+1028;   ahead;r;di depan (duluan)
+1029;   generation;n;generasi
+1030;   commercial;j;komersial
+1031;   address;v;mengalamatkan
+1032;   cancer;n;kanker
+1033;   test;v;uji
+1034;   item;n;barang
+1035;   reality;n;realitas
+1036;   coach;n;pelatih
+1037;   step;v;melangkah
+1038;   Mrs;n;Nyonya
+1039;   yard;n;halaman
+1040;   beat;v;memukul
+1041;   violence;n;kekerasan
+1042;   total;j;total
+1043;   tend;v;cenderung
+1044;   investment;n;investasi
+1045;   discussion;n;diskusi
+1046;   finger;n;jari
+1047;   garden;n;taman
+1048;   notice;v;memperhatikan
+1049;   collection;n;koleksi
+1050;   modern;j;modern
+1051;   task;n;tugas
+1052;   partner;n;pasangan
+1053;   positive;j;positif
+1054;   civil;j;sipil
+1055;   kitchen;n;dapur
+1056;   consumer;n;konsumen
+1057;   shot;n;tembakan
+1058;   budget;n;anggaran
+1059;   wish;v;menginginkan
+1060;   painting;n;lukisan
+1061;   scientist;n;ilmuwan
+1062;   safe;j;aman
+1063;   agreement;n;persetujuan
+1064;   capital;n;modal
+1065;   mouth;n;mulut
+1066;   nor;c;maupun
+1067;   victim;n;korban
+1068;   newspaper;n;koran
+1069;   instead;i;sebagai gantinya
+1070;   threat;n;ancaman
+1071;   responsibility;n;tanggung jawab
+1072;   smile;v;tersenyum
+1073;   attorney;n;pengacara
+1074;   score;n;skor
+1075;   account;n;rekening
+1076;   interesting;j;menarik
+1077;   break;n;istirahat
+1078;   audience;n;hadirin
+1079;   rich;j;kaya
+1080;   dinner;n;makan malam
+1081;   figure;v;menggambarkan
+1082;   vote;n;hak pilih
+1083;   western;j;barat
+1084;   relate;v;menghubungkan
+1085;   travel;v;berpergian
+1086;   debate;n;perdebatan
+1087;   prevent;v;mencegah
+1088;   citizen;n;warganegara
+1089;   majority;n;mayoritas
+1090;   none;p;tidak ada
+1091;   front;i;depan
+1092;   born;v;lahir
+1093;   admit;v;mengakui
+1094;   senior;j;senior
+1095;   assume;v;menganggap
+1096;   wind;n;angin
+1097;   key;j;kunci
+1098;   professional;j;profesional
+1099;   mission;n;misi
+1100;   fast;r;dengan cepat
+1101;   alone;r;sendirian
+1102;   customer;n;pelanggan
+1103;   suffer;v;menderita
+1104;   speech;n;pidato
+1105;   successful;j;sukses
+1106;   option;n;pilihan
+1107;   participant;n;peserta
+1108;   southern;j;arah selatan
+1109;   fresh;j;segar
+1110;   eventually;r;akhirnya
+1111;   no;p;tidak
+1112;   forest;n;hutan
+1113;   video;n;video
+1114;   global;j;global
+1115;   Senate;n;Senat
+1116;   reform;n;pembaruan
+1117;   access;n;akses
+1118;   restaurant;n;restoran
+1119;   judge;n;hakim
+1120;   publish;v;menerbitkan
+1121;   cost;v;berharga
+1122;   relation;n;hubungan
+1123;   like;c;seperti
+1124;   release;v;melepaskan
+1125;   own;v;memiliki
+1126;   bird;n;burung
+1127;   opinion;n;pendapat
+1128;   credit;n;kredit
+1129;   critical;j;kritis
+1130;   corner;n;sudut
+1131;   concerned;j;prihatin
+1132;   recall;v;menarik kembali
+1133;   version;n;versi
+1134;   stare;v;menatap
+1135;   safety;n;keamanan
+1136;   effective;j;efektif
+1137;   neighborhood;n;lingkungan
+1138;   original;j;asli
+1139;   act;n;bertindak
+1140;   troop;n;pasukan
+1141;   income;n;pendapatan
+1142;   directly;r;langsung
+1143;   hurt;v;menyakiti
+1144;   species;n;jenis
+1145;   immediately;r;segera
+1146;   track;n;jalur
+1147;   basic;j;dasar
+1148;   strike;v;menyerang
+1149;   hope;n;harapan
+1150;   sky;n;langit
+1151;   freedom;n;kebebasan
+1152;   absolutely;r;benar
+1153;   plane;n;pesawat
+1154;   nobody;p;tak seorangpun
+1155;   achieve;v;mencapai
+1156;   object;n;obyek
+1157;   attitude;n;sikap
+1158;   labor;n;tenaga kerja
+1159;   refer;v;mengacu
+1160;   concept;n;konsep
+1161;   client;n;klien
+1162;   powerful;j;kuat
+1163;   perfect;j;sempurna
+1164;   nine;m;sembilan
+1165;   therefore;r;karena itu
+1166;   conduct;v;mengantarkan
+1167;   announce;v;mengumumkan
+1168;   conversation;n;percakapan
+1169;   examine;v;memeriksa
+1170;   touch;v;menyentuh
+1171;   please;r;silahkan
+1172;   attend;v;menghadiri
+1173;   completely;r;sama sekali
+1174;   vote;v;memilih
+1175;   variety;n;variasi
+1176;   sleep;v;tidur
+1177;   turn;n;belokan
+1178;   involved;j;terlibat
+1179;   investigation;n;penyelidikan
+1180;   nuclear;j;nuklir
+1181;   researcher;n;peneliti
+1182;   press;n;pers
+1183;   conflict;n;konflik
+1184;   spirit;n;semangat
+1185;   experience;v;mengalami
+1186;   replace;v;menggantikan
+1187;   british;j;inggris
+1188;   encourage;v;memberanikan
+1189;   argument;n;argumen
+1190;   by;r;oleh
+1191;   once;c;sekali
+1192;   camp;n;kamp
+1193;   brain;n;otak
+1194;   feature;n;fitur
+1195;   afternoon;n;sore
+1196;   AM;r;antara jam 24.00 sd 12.00
+1197;   weekend;n;akhir pekan
+1198;   dozen;m;lusin
+1199;   possibility;n;kemungkinan
+1200;   along;r;sepanjang
+1201;   insurance;n;asuransi
+1202;   department;n;departemen
+1203;   battle;n;pertarungan
+1204;   beginning;n;awal
+1205;   date;n;tanggal
+1206;   generally;r;umumnya
+1207;   african;j;afrika
+1208;   very;j;sangat
+1209;   sorry;j;sesal
+1210;   crisis;n;krisis
+1211;   complete;v;melengkapi
+1212;   fan;n;penggemar
+1213;   stick;v;melekat
+1214;   define;v;mengartikan
+1215;   easily;r;mudah
+1216;   through;r;melalui
+1217;   hole;n;lubang
+1218;   element;n;elemen
+1219;   vision;n;penglihatan
+1220;   status;n;status
+1221;   normal;j;normal
+1222;   chinese;j;cina
+1223;   ship;n;kapal
+1224;   solution;n;penyelesaian
+1225;   stone;n;batu
+1226;   slowly;r;perlahan
+1227;   scale;n;skala
+1228;   bit;r;sedikit
+1229;   university;n;Universitas
+1230;   introduce;v;memperkenalkan
+1231;   driver;n;sopir
+1232;   attempt;n;percobaan
+1233;   park;n;taman
+1234;   spot;n;titik
+1235;   lack;n;kekurangan
+1236;   ice;n;es
+1237;   boat;n;perahu
+1238;   drink;v;minum
+1239;   sun;n;matahari
+1240;   front;j;depan
+1241;   distance;n;jarak
+1242;   wood;n;kayu
+1243;   handle;v;menangani
+1244;   truck;n;truk
+1245;   return;n;pengembalian
+1246;   mountain;n;gunung
+1247;   survey;n;survei
+1248;   supposed;j;seharusnya
+1249;   tradition;n;tradisi
+1250;   winter;n;musim dingin
+1251;   village;n;desa
+1252;   soviet;j;soviet
+1253;   refuse;v;menolak
+1254;   sales;n;penjualan
+1255;   roll;v;menggulung
+1256;   communication;n;komunikasi
+1257;   run;n;giliran bermain
+1258;   screen;n;layar
+1259;   gain;v;mendapatkan
+1260;   resident;n;penghuni
+1261;   hide;v;menyembunyikan
+1262;   gold;n;emas
+1263;   club;n;klub
+1264;   future;j;masa depan
+1265;   farm;n;tanah pertanian
+1266;   potential;j;potensi
+1267;   increase;n;peningkatan
+1268;   middle;n;tengah
+1269;   suropean;j;eropa
+1270;   presence;n;kehadiran
+1271;   independent;j;independen
+1272;   district;n;distrik
+1273;   shape;n;bentuk
+1274;   reader;n;pembaca
+1275;   Ms;n;Nona
+1276;   contract;n;kontrak
+1277;   crowd;n;kerumunan
+1278;   christian;j;kristen
+1279;   express;v;mengekspresikan
+1280;   apartment;n;apartemen
+1281;   willing;j;rela
+1282;   strength;n;kekuatan
+1283;   previous;j;sebelumnya
+1284;   band;n;pita
+1285;   obviously;r;jelas
+1286;   horse;n;kuda
+1287;   interested;j;tertarik
+1288;   target;n;target
+1289;   prison;n;penjara
+1290;   ride;v;mengendarai
+1291;   guard;n;penjaga
+1292;   terms;i;istilah
+1293;   demand;n;permintaan
+1294;   reporter;n;wartawan
+1295;   deliver;v;kirim
+1296;   text;n;teks
+1297;   share;n;bagian
+1298;   tool;n;alat
+1299;   wild;j;liar
+1300;   vehicle;n;kendaraan
+1301;   observe;v;mengamati
+1302;   flight;n;penerbangan
+1303;   inside;r;ke dalam
+1304;   facility;n;fasilitas
+1305;   understanding;n;pengertian
+1306;   average;j;rata-rata
+1307;   emerge;v;muncul
+1308;   advantage;n;keuntungan
+1309;   quick;j;cepat
+1310;   light;j;cahaya
+1311;   leadership;n;kepemimpinan
+1312;   earn;v;mendapatkan
+1313;   pound;n;pound
+1314;   basis;n;dasar
+1315;   bright;j;terang
+1316;   operate;v;menjalankan
+1317;   guest;n;tamu
+1318;   sample;n;contoh
+1319;   contribute;v;menyumbang
+1320;   tiny;j;mungil
+1321;   block;n;blok
+1322;   protection;n;perlindungan
+1323;   settle;v;menetapkan
+1324;   feed;v;memberi makan
+1325;   collect;v;mengumpulkan
+1326;   additional;j;tambahan
+1327;   while;n;saat
+1328;   highly;r;sangat
+1329;   identity;n;identitas
+1330;   title;n;judul
+1331;   mostly;r;kebanyakan
+1332;   lesson;n;pelajaran
+1333;   faith;n;iman
+1334;   river;n;sungai
+1335;   promote;v;menggalakkan
+1336;   living;n;hidup
+1337;   present;j;saat ini
+1338;   count;v;menghitung
+1339;   unless;c;kecuali kalau
+1340;   marry;v;menikah
+1341;   tomorrow;r;besok
+1342;   technique;n;teknik
+1343;   path;n;jalan
+1344;   ear;n;telinga
+1345;   shop;n;toko
+1346;   folk;n;rakyat
+1347;   order;v;memesan
+1348;   principle;n;prinsip
+1349;   survive;v;bertahan
+1350;   lift;v;mengangkat
+1351;   border;n;berbatasan
+1352;   competition;n;kompetisi
+1353;   jump;v;melompat
+1354;   gather;v;mengumpulkan
+1355;   limit;v;membatasi
+1356;   fit;v;mencocokkan
+1357;   claim;n;klaim
+1358;   cry;v;menangis
+1359;   equipment;n;peralatan
+1360;   worth;i;bernilai
+1361;   associate;v;menghubungkan
+1362;   critic;n;kritik
+1363;   warm;j;hangat
+1364;   aspect;n;aspek
+1365;   result;v;menghasilkan
+1366;   insist;v;bersikeras
+1367;   failure;n;kegagalan
+1368;   annual;j;tahunan
+1369;   french;j;perancis
+1370;   Christmas;n;hari natal
+1371;   comment;n;komentar
+1372;   responsible;j;tanggung jawab
+1373;   affair;n;perselingkuhan
+1374;   approach;v;mendekati
+1375;   until;i;sampai
+1376;   procedure;n;prosedur
+1377;   regular;j;biasa
+1378;   spread;v;menyebarkan
+1379;   chairman;n;ketua
+1380;   baseball;n;baseball
+1381;   soft;j;lembut
+1382;   ignore;v;mengabaikan
+1383;   egg;n;telur
+1384;   measure;v;mengukur
+1385;   belief;n;kepercayaan
+1386;   demonstrate;v;mendemonstrasikan
+1387;   anybody;p;siapa saja
+1388;   murder;n;pembunuhan
+1389;   gift;n;hadiah
+1390;   religion;n;agama
+1391;   review;n;ulasan
+1392;   editor;n;editor
+1393;   past;i;lalu
+1394;   engage;v;mengikutsertakan
+1395;   coffee;n;kopi
+1396;   document;n;dokumen
+1397;   speed;n;kecepatan
+1398;   cross;v;menyeberang
+1399;   influence;n;pengaruh
+1400;   anyway;r;bagaimanapun
+1401;   threaten;v;mengancam
+1402;   commit;v;melakukan
+1403;   female;j;betina
+1404;   youth;n;pemuda
+1405;   wave;n;gelombang
+1406;   move;n;pindah
+1407;   afraid;j;takut
+1408;   quarter;n;perempat
+1409;   background;n;latar belakang
+1410;   native;j;asli
+1411;   broad;j;luas
+1412;   wonderful;j;hebat
+1413;   deny;v;menyangkal
+1414;   apparently;r;tampaknya
+1415;   slightly;r;sedikit
+1416;   reaction;n;reaksi
+1417;   twice;r;dua kali
+1418;   suit;n;setelan
+1419;   perspective;n;perspektif
+1420;   growing;j;yang sedang bertumbuh
+1421;   blow;v;meniup
+1422;   construction;n;konstruksi
+1423;   kind;r;jenis
+1424;   intelligence;n;kecerdasan
+1425;   destroy;v;menghancurkan
+1426;   cook;v;memasak
+1427;   connection;n;hubungan
+1428;   charge;v;mengisi
+1429;   burn;v;membakar
+1430;   shoe;n;sepatu
+1431;   view;v;melihat
+1432;   grade;n;kelas
+1433;   context;n;konteks
+1434;   committee;n;komite
+1435;   hey;u;hei
+1436;   mistake;n;kesalahan
+1437;   focus;n;fokus
+1438;   smile;n;senyum
+1439;   location;n;lokasi
+1440;   clothes;n;pakaian
+1441;   Indian;j;Indian
+1442;   quiet;j;sepi
+1443;   dress;v;berpakaian
+1444;   promise;v;berjanji
+1445;   aware;j;sadar
+1446;   neighbor;n;tetangga
+1447;   complete;j;lengkap
+1448;   drive;n;penggerak
+1449;   function;n;fungsi
+1450;   bone;n;tulang
+1451;   active;j;aktif
+1452;   extend;v;memperpanjang
+1453;   chief;j;kepala
+1454;   average;n;rata-rata
+1455;   combine;v;menggabungkan
+1456;   wine;n;minuman anggur
+1457;   below;r;di bawah
+1458;   cool;j;keren
+1459;   voter;n;pemilih
+1460;   mean;n;arti
+1461;   demand;v;meminta
+1462;   learning;n;pengetahuan
+1463;   bus;n;bis
+1464;   hell;n;neraka
+1465;   dangerous;j;berbahaya
+1466;   remind;v;mengingatkan
+1467;   moral;j;moral
+1468;   united;j;serikat
+1469;   category;n;kategori
+1470;   relatively;r;relatif
+1471;   victory;n;kemenangan
+1472;   key;n;kunci
+1473;   academic;j;akademik
+1474;   visit;n;kunjungan
+1475;   Internet;n;Internet
+1476;   healthy;j;sehat
+1477;   fire;v;memecat
+1478;   negative;j;negatif
+1479;   following;j;berikut
+1480;   historical;j;historis
+1481;   medicine;n;obat
+1482;   tour;n;wisata
+1483;   depend;v;tergantung
+1484;   photo;n;foto
+1485;   finding;n;temuan
+1486;   grab;v;mengambil
+1487;   direct;j;langsung
+1488;   classroom;n;kelas
+1489;   contact;n;kontak
+1490;   justice;n;keadilan
+1491;   participate;v;ikut serta
+1492;   daily;j;harian
+1493;   fair;j;adil
+1494;   pair;n;pasangan
+1495;   famous;j;terkenal
+1496;   exercise;n;olahraga
+1497;   knee;n;lutut
+1498;   flower;n;bunga
+1499;   tape;n;plester
+1500;   hire;v;mempekerjakan
+1501;   familiar;j;akrab
+1502;   appropriate;j;sesuai
+1503;   supply;n;persediaan
+1504;   fully;r;sepenuhnya
+1505;   cut;n;potongsn
+1506;   will;n;kehendak
+1507;   actor;n;aktor
+1508;   birth;n;kelahiran
+1509;   search;n;pencarian
+1510;   tie;v;mengikat
+1511;   democracy;n;demokrasi
+1512;   eastern;j;timur
+1513;   primary;j;utama
+1514;   yesterday;r;kemarin
+1515;   circle;n;lingkaran
+1516;   device;n;alat
+1517;   progress;n;kemajuan
+1518;   next;i;berikutnya
+1519;   front;n;depan
+1520;   bottom;n;dasar
+1521;   island;n;pulau
+1522;   exchange;n;pertukaran
+1523;   clean;j;bersih
+1524;   studio;n;studio
+1525;   train;v;melatih
+1526;   lady;n;wanita
+1527;   colleague;n;rekan
+1528;   application;n;aplikasi
+1529;   neck;n;leher
+1530;   lean;v;menyandarkan
+1531;   damage;n;kerusakan
+1532;   plastic;n;plastik
+1533;   tall;j;tinggi
+1534;   plate;n;piring
+1535;   hate;v;benci
+1536;   otherwise;r;jika tidak
+1537;   writing;n;penulisan
+1538;   press;v;menekan
+1539;   male;j;pria
+1540;   start;n;awal
+1541;   alive;j;hidup
+1542;   expression;n;ekspresi
+1543;   football;n;sepak bola
+1544;   intend;v;berniat
+1545;   attack;v;menyerang
+1546;   chicken;n;ayam
+1547;   army;n;tentara
+1548;   abuse;n;penyalahgunaan
+1549;   theater;n;teater
+1550;   shut;v;menutup
+1551;   map;n;peta
+1552;   extra;j;tambahan
+1553;   session;n;sidang
+1554;   danger;n;bahaya
+1555;   welcome;v;mempersilahkan
+1556;   domestic;j;lokal
+1557;   lots;p;banyak
+1558;   literature;n;literatur
+1559;   rain;n;hujan
+1560;   desire;n;keinginan
+1561;   assessment;n;penilaian
+1562;   injury;n;cedera
+1563;   respect;n;rasa hormat
+1564;   northern;j;sebelah utara
+1565;   nod;v;mengangguk
+1566;   paint;v;melukis
+1567;   fuel;n;bahan bakar
+1568;   leaf;n;daun
+1569;   direct;v;mengarahkan
+1570;   dry;j;kering
+1571;   russian;j;rusia
+1572;   instruction;n;petunjuk
+1573;   fight;n;pertarungan
+1574;   pool;n;kolam
+1575;   climb;v;mendaki
+1576;   sweet;j;manis
+1577;   lead;n;timah
+1578;   engine;n;mesin
+1579;   fourth;m;keempat
+1580;   salt;n;garam
+1581;   expand;v;memperluas
+1582;   importance;n;kepentingan
+1583;   metal;n;logam
+1584;   fat;n;lemak
+1585;   ticket;n;tiket
+1586;   software;n;perangkat lunak
+1587;   disappear;v;menghilang
+1588;   corporate;j;bersama
+1589;   strange;j;aneh
+1590;   lip;n;bibir
+1591;   reading;n;bacaan
+1592;   urban;j;perkotaan
+1593;   mental;j;mental
+1594;   increasingly;r;makin
+1595;   lunch;n;makan siang
+1596;   educational;j;berkaitan dgn pendidikan
+1597;   somewhere;r;di suatu tempat
+1598;   farmer;n;petani
+1599;   above;r;atas
+1600;   sugar;n;gula
+1601;   planet;n;planet
+1602;   favorite;j;yang paling disukai
+1603;   explore;v;menjelajah
+1604;   obtain;v;memperoleh
+1605;   enemy;n;musuh
+1606;   greatest;j;terbesar
+1607;   complex;j;kompleks
+1608;   surround;v;mengelilingi
+1609;   athlete;n;atlet
+1610;   invite;v;mengundang
+1611;   repeat;v;mengulangi
+1612;   carefully;r;hati-hati
+1613;   soul;n;jiwa
+1614;   scientific;j;ilmiah
+1615;   impossible;j;mustahil
+1616;   panel;n;panel
+1617;   meaning;n;arti
+1618;   mom;n;ibu
+1619;   married;j;menikah
+1620;   alone;j;sendirian
+1621;   instrument;n;instrumen
+1622;   predict;v;meramalkan
+1623;   weather;n;cuaca
+1624;   presidential;j;presiden
+1625;   emotional;j;emosional
+1626;   commitment;n;komitmen
+1627;   supreme;j;tertinggi
+1628;   bear;v;menanggung
+1629;   pocket;n;saku
+1630;   thin;j;tipis
+1631;   temperature;n;suhu
+1632;   surprise;n;kejutan
+1633;   poll;n;pemilihan
+1634;   proposal;n;usul
+1635;   consequence;n;konsekuensi
+1636;   half;n;setengah
+1637;   breath;n;nafas
+1638;   sight;n;melihat
+1639;   cover;n;penutup
+1640;   balance;n;keseimbangan
+1641;   adopt;v;mengangkat
+1642;   minority;n;minoritas
+1643;   straight;r;lurus
+1644;   attempt;v;mencoba
+1645;   connect;v;menghubungkan
+1646;   works;n;mesin-mesin
+1647;   teaching;n;pengajaran
+1648;   belong;v;termasuk
+1649;   aid;n;bantuan
+1650;   advice;n;nasihat
+1651;   okay;r;baik
+1652;   photograph;n;foto
+1653;   empty;j;kosong
+1654;   regional;j;regional
+1655;   trail;n;jejak
+1656;   novel;n;novel
+1657;   code;n;kode
+1658;   somehow;r;entah bagaimana
+1659;   organize;v;mengatur
+1660;   jury;n;juri
+1661;   breast;n;payudara
+1662;   iraqi;j;irak
+1663;   human;n;manusia
+1664;   acknowledge;v;mengakui
+1665;   theme;n;tema
+1666;   storm;n;badai
+1667;   union;n;persatuan
+1668;   record;v;merekam
+1669;   desk;n;meja tulis
+1670;   fear;v;takut
+1671;   thanks;n;terima kasih
+1672;   fruit;n;buah
+1673;   under;r;di bawah
+1674;   expensive;j;mahal
+1675;   yellow;j;kuning
+1676;   conclusion;n;kesimpulan
+1677;   prime;j;utama
+1678;   shadow;n;bayangan
+1679;   struggle;v;berjuang
+1680;   conclude;v;menyimpulkan
+1681;   analyst;n;analis
+1682;   dance;n;menari
+1683;   limit;n;membatasi
+1684;   like;j;seperti
+1685;   regulation;n;peraturan
+1686;   being;n;makhluk
+1687;   last;v;bertahan
+1688;   ring;n;cincin
+1689;   largely;r;sebagian besar
+1690;   shift;v;beralih
+1691;   revenue;n;pendapatan
+1692;   mark;v;menandai
+1693;   locate;v;menempatkan
+1694;   county;n;daerah
+1695;   appearance;n;penampilan
+1696;   package;n;paket
+1697;   difficulty;n;kesulitan
+1698;   bridge;n;jembatan
+1699;   recommend;v;menyarankan
+1700;   obvious;j;jelas
+1701;   train;n;kerata api
+1702;   basically;r;pada dasarnya
+1703;   e-mail;n;e-mail
+1704;   generate;v;menghasilkan
+1705;   anymore;r;lagi
+1706;   propose;v;mengusulkan
+1707;   thinking;n;pemikiran
+1708;   possibly;r;mungkin
+1709;   trend;n;kecenderungan
+1710;   visitor;n;pengunjung
+1711;   loan;n;pinjaman
+1712;   currently;r;saat ini
+1713;   comfortable;j;nyaman
+1714;   investor;n;investor
+1715;   but;i;tapi
+1716;   profit;n;keuntungan
+1717;   angry;j;marah
+1718;   crew;n;awak kapal
+1719;   deep;r;dalam
+1720;   accident;n;kecelakaan
+1721;   male;n;pria
+1722;   meal;n;makanan
+1723;   hearing;n;pendengaran
+1724;   traffic;n;lalu lintas
+1725;   muscle;n;otot
+1726;   notion;n;gagasan
+1727;   capture;v;menangkap
+1728;   prefer;v;lebih suka
+1729;   truly;r;sungguh
+1730;   earth;n;bumi
+1731;   japanese;j;jepang
+1732;   chest;n;dada
+1733;   search;v;mencari
+1734;   thick;j;tebal
+1735;   cash;n;kas
+1736;   museum;n;museum
+1737;   beauty;n;keindahan
+1738;   emergency;n;keadaan darurat
+1739;   unique;j;unik
+1740;   feature;v;menonjolkan
+1741;   internal;j;intern
+1742;   ethnic;j;etnis
+1743;   link;v;menghubungkan
+1744;   stress;n;ketegangan
+1745;   content;n;konten
+1746;   select;v;memilih
+1747;   root;n;akar
+1748;   nose;n;hidung
+1749;   declare;v;menyatakan
+1750;   outside;r;di luar
+1751;   appreciate;v;menghargai
+1752;   actual;j;sebenarnya
+1753;   bottle;n;botol
+1754;   hardly;r;hampir tidak
+1755;   setting;n;pengaturan
+1756;   launch;v;meluncurkan
+1757;   dress;n;gaun
+1758;   file;n;berkas
+1759;   sick;j;sakit
+1760;   outcome;n;hasil
+1761;   ad;n;iklan
+1762;   defend;v;membela
+1763;   matter;v;berarti
+1764;   judge;v;menghakimi
+1765;   duty;n;kewajiban
+1766;   sheet;n;lembar
+1767;   ought;v;seharusnya
+1768;   ensure;v;memastikan
+1769;   catholic;j;katolik
+1770;   extremely;r;sangat
+1771;   extent;n;tingkat
+1772;   component;n;komponen
+1773;   mix;v;mencampur
+1774;   long-term;j;jangka panjang
+1775;   slow;j;lambat
+1776;   contrast;n;kontras
+1777;   zone;n;daerah
+1778;   wake;v;bangun
+1779;   challenge;v;menantang
+1780;   airport;n;bandara
+1781;   chief;n;kepala
+1782;   brown;j;coklat
+1783;   standard;j;standar
+1784;   shirt;n;kemeja
+1785;   pilot;n;pilot
+1786;   warn;v;memperingatkan
+1787;   ultimately;r;akhirnya
+1788;   cat;n;kucing
+1789;   contribution;n;kontribusi
+1790;   capacity;n;kapasitas
+1791;   ourselves;p;diri kita sendiri
+1792;   estate;n;perkebunan
+1793;   guide;n;panduan
+1794;   circumstance;n;keadaan
+1795;   snow;n;salju
+1796;   english;j;inggris
+1797;   politician;n;politikus
+1798;   steal;v;mencuri
+1799;   pursue;v;mengejar
+1800;   slip;v;tergelincir
+1801;   percentage;n;persentase
+1802;   meat;n;daging
+1803;   funny;j;lucu
+1804;   neither;r;tidak
+1805;   soil;n;tanah
+1806;   influence;v;mempengaruhi
+1807;   surgery;n;operasi
+1808;   correct;j;benar
+1809;   jewish;j;yahudi
+1810;   blame;v;menyalahkan
+1811;   estimate;v;memperkirakan
+1812;   due;i;wajar
+1813;   basketball;n;bola basket
+1814;   late;r;terlambat
+1815;   golf;n;golf
+1816;   investigate;v;menyelidiki
+1817;   crazy;j;gila
+1818;   significantly;r;secara signifikan
+1819;   chain;n;rantai
+1820;   address;n;alamat
+1821;   branch;n;cabang
+1822;   combination;n;kombinasi
+1823;   just;j;hanya
+1824;   frequently;r;sering
+1825;   governor;n;gubernur
+1826;   relief;n;bantuan
+1827;   user;n;pengguna
+1828;   dad;n;ayah
+1829;   kick;v;menendang
+1830;   part;r;bagian
+1831;   manner;n;cara
+1832;   ancient;j;kuno
+1833;   silence;n;keheningan
+1834;   rating;n;rating
+1835;   golden;j;keemasan
+1836;   motion;n;gerakan
+1837;   german;j;jerman
+1838;   gender;n;jenis kelamin
+1839;   solve;v;memecahkan
+1840;   fee;n;biaya
+1841;   landscape;n;pemandangan
+1842;   used;j;bekas
+1843;   bowl;n;mangkuk
+1844;   equal;j;sama
+1845;   long;c;lama
+1846;   official;j;resmi
+1847;   forth;r;sebagainya
+1848;   frame;n;bingkai
+1849;   typical;j;khas
+1850;   except;i;kecuali
+1851;   conservative;j;konservatif
+1852;   eliminate;v;menghapuskan
+1853;   host;n;tuan rumah
+1854;   hall;n;aula
+1855;   trust;v;mempercayai
+1856;   ocean;n;lautan
+1857;   score;v;membuat angka
+1858;   row;n;baris
+1859;   producer;n;produsen
+1860;   afford;v;mampu
+1861;   meanwhile;r;sementara itu
+1862;   regime;n;rezim
+1863;   division;n;divisi
+1864;   confirm;v;memastikan
+1865;   fix;v;memperbaiki
+1866;   appeal;n;menarik
+1867;   mirror;n;cermin
+1868;   tooth;n;gigi
+1869;   smart;j;pintar
+1870;   length;n;panjangnya
+1871;   entirely;r;sepenuhnya
+1872;   rely;v;mengandalkan
+1873;   topic;n;topik
+1874;   complain;v;mengeluh
+1875;   issue;v;menerbitkan
+1876;   variable;n;variabel
+1877;   back;v;kembali
+1878;   range;v;berbaris
+1879;   telephone;n;telepon
+1880;   perception;n;persepsi
+1881;   attract;v;menarik
+1882;   confidence;n;kepercayaan
+1883;   bedroom;n;kamar tidur
+1884;   secret;n;rahasia
+1885;   debt;n;hutang
+1886;   rare;j;langka
+1887;   his;p;-nya (laki-laki)
+1888;   tank;n;tangki
+1889;   nurse;n;perawat
+1890;   coverage;n;cakupan
+1891;   opposition;n;berlawanan
+1892;   aside;r;ke samping
+1893;   anywhere;r;di mana saja
+1894;   bond;n;obligasi
+1895;   file;v;mengajukan
+1896;   pleasure;n;kesenangan
+1897;   master;n;tuan
+1898;   era;n;era
+1899;   requirement;n;kebutuhan
+1900;   check;n;pemeriksaan
+1901;   stand;n;berdiri
+1902;   fun;n;kesenangan
+1903;   expectation;n;harapan
+1904;   wing;n;sayap
+1905;   separate;j;terpisah
+1906;   now;c;sekarang
+1907;   clear;v;membersihkan
+1908;   struggle;n;perjuangan
+1909;   mean;j;berarti
+1910;   somewhat;r;agak
+1911;   pour;v;menuangkan
+1912;   stir;v;menggerakkan
+1913;   judgment;n;pertimbangan
+1914;   clean;v;membersihkan
+1915;   except;c;kecuali
+1916;   beer;n;bir
+1917;   English;n;bahasa inggris
+1918;   reference;n;acuan
+1919;   tear;n;air mata
+1920;   doubt;n;keraguan
+1921;   grant;v;mengaruniakan
+1922;   seriously;r;serius
+1923;   account;v;membukukan
+1924;   minister;n;menteri
+1925;   totally;r;sama sekali
+1926;   hero;n;pahlawan
+1927;   industrial;j;industri
+1928;   cloud;n;awan
+1929;   stretch;v;meregang
+1930;   winner;n;pemenang
+1931;   volume;n;volume
+1932;   travel;n;perjalanan
+1933;   seed;n;benih
+1934;   surprised;j;terkejut
+1935;   rest;v;beristirahat
+1936;   fashion;n;mode
+1937;   pepper;n;lada
+1938;   separate;v;terpisah
+1939;   busy;j;sibuk
+1940;   intervention;n;campur tangan
+1941;   copy;n;salinan
+1942;   tip;n;tip
+1943;   below;i;di bawah
+1944;   cheap;j;murah
+1945;   aim;v;mengarahkan
+1946;   cite;v;mengutip
+1947;   welfare;n;kesejahteraan
+1948;   vegetable;n;sayur-mayur
+1949;   gray;j;abu-abu
+1950;   dish;n;hidangan
+1951;   beach;n;pantai
+1952;   improvement;n;perbaikan
+1953;   everywhere;r;dimana mana
+1954;   opening;n;pembukaan
+1955;   overall;j;secara keseluruhan
+1956;   divide;v;membagi
+1957;   initial;j;awal
+1958;   terrible;j;buruk
+1959;   oppose;v;menentang
+1960;   contemporary;j;kontemporer
+1961;   route;n;rute
+1962;   multiple;j;banyak bagian
+1963;   essential;j;penting
+1964;   question;v;mempersoalkan
+1965;   league;n;liga
+1966;   criminal;j;pidana
+1967;   careful;j;cermat
+1968;   core;n;inti
+1969;   upper;j;atas
+1970;   rush;v;buru-buru
+1971;   necessarily;r;perlu
+1972;   specifically;r;secara khusus
+1973;   tired;j;lelah
+1974;   rise;n;kenaikan
+1975;   tie;n;dasi
+1976;   employ;v;mempekerjakan
+1977;   holiday;n;liburan
+1978;   dance;v;menari
+1979;   vast;j;luas
+1980;   resolution;n;resolusi
+1981;   household;n;rumah tangga
+1982;   fewer;d;lebih sedikit
+1983;   abortion;n;pengguguran
+1984;   apart;r;telepas
+1985;   witness;n;saksi
+1986;   match;v;mencocokkan
+1987;   barely;r;hampir
+1988;   sector;n;sektor
+1989;   representative;n;wakil
+1990;   lack;v;kekurangan
+1991;   beneath;i;di bawah
+1992;   beside;i;di samping
+1993;   black;n;kehitaman
+1994;   incident;n;peristiwa
+1995;   limited;j;terbatas
+1996;   proud;j;bangga
+1997;   flow;n;aliran
+1998;   faculty;n;fakultas
+1999;   increased;j;meningkat
+2000;   waste;n;limbah
+2001;   merely;r;hanya
+2002;   mass;n;massa
+2003;   emphasize;v;menekankan
+2004;   experiment;n;percobaan
+2005;   definitely;r;pastinya
+2006;   bomb;n;bom
+2007;   enormous;j;besar sekali
+2008;   tone;n;nada
+2009;   liberal;j;liberal
+2010;   massive;j;besar
+2011;   engineer;n;insinyur
+2012;   wheel;n;roda
+2013;   female;n;wanita
+2014;   decline;v;menurun
+2015;   invest;v;menanamkan
+2016;   promise;n;janji
+2017;   cable;n;kabel
+2018;   towards;i;menuju
+2019;   expose;v;menampakkan
+2020;   rural;j;pedesaan
+2021;   AIDS;n;AIDS
+2022;   jew;n;yahudi
+2023;   narrow;j;sempit
+2024;   cream;n;krim
+2025;   secretary;n;sekretaris
+2026;   gate;n;gerbang
+2027;   solid;j;padat
+2028;   hill;n;bukit
+2029;   typically;r;khas
+2030;   noise;n;kebisingan
+2031;   grass;n;rumput
+2032;   unfortunately;r;sayangnya
+2033;   hat;n;topi
+2034;   legislation;n;undang-undang
+2035;   succeed;v;berhasil
+2036;   either;d;tiap
+2037;   celebrate;v;merayakan
+2038;   achievement;n;pencapaian
+2039;   fishing;n;penangkapan ikan
+2040;   drink;n;minuman
+2041;   accuse;v;menuduh
+2042;   hand;v;mengulurkan
+2043;   useful;j;berguna
+2044;   land;v;mendarat
+2045;   secret;j;rahasia
+2046;   reject;v;menolak
+2047;   talent;n;bakat
+2048;   taste;n;rasa
+2049;   characteristic;n;ciri
+2050;   milk;n;susu
+2051;   escape;v;melarikan diri
+2052;   cast;v;melemparkan
+2053;   sentence;n;kalimat
+2054;   unusual;j;yang tidak biasa
+2055;   closely;r;dengan rapat
+2056;   convince;v;meyakinkan
+2057;   height;n;ketinggian
+2058;   physician;n;dokter
+2059;   assess;v;menilai
+2060;   sleep;n;tidur
+2061;   plenty;p;banyak
+2062;   ride;n;perjalanan dengan mobil
+2063;   virtually;r;sebenarnya
+2064;   first;r;pertama
+2065;   addition;i;tambahan
+2066;   sharp;j;tajam
+2067;   creative;j;kreatif
+2068;   lower;v;merendahkan
+2069;   behind;r;di belakang
+2070;   approve;v;menyetujui
+2071;   explanation;n;penjelasan
+2072;   outside;j;di luar
+2073;   gay;j;gay
+2074;   campus;n;kampus
+2075;   proper;j;layak
+2076;   live;j;hidup
+2077;   guilty;j;bersalah
+2078;   living;j;hidup
+2079;   acquire;v;memperoleh
+2080;   compete;v;bersaing
+2081;   technical;j;teknis
+2082;   plus;i;plus
+2083;   mind;v;menghiraukan
+2084;   potential;n;potensi
+2085;   immigrant;n;imigran
+2086;   weak;j;lemah
+2087;   illegal;j;liar (pelanggaran)
+2088;   hi;u;hai
+2089;   alternative;n;alternatif
+2090;   interaction;n;interaksi
+2091;   column;n;kolom
+2092;   personality;n;kepribadian
+2093;   signal;n;sinyal
+2094;   curriculum;n;kurikulum
+2095;   list;v;mendaftarkan
+2096;   honor;n;kehormatan
+2097;   passenger;n;penumpang
+2098;   assistance;n;bantuan
+2099;   forever;r;selamanya
+2100;   fun;j;menyenangkan
+2101;   regard;v;mengindahkan
+2102;   israeli;j;israel
+2103;   association;n;asosiasi
+2104;   twenty;m;dua puluh
+2105;   knock;v;mengetuk
+2106;   review;v;meninjau kembali
+2107;   wrap;v;membungkus
+2108;   lab;n;laboratorium
+2109;   offer;n;tawaran
+2110;   display;v;mempertunjukkan
+2111;   criticism;n;kritik
+2112;   asset;n;aset
+2113;   depression;n;depresi
+2114;   spiritual;j;rohani
+2115;   musical;j;musikal
+2116;   journalist;n;wartawan
+2117;   prayer;n;doa
+2118;   suspect;v;mencurigai
+2119;   scholar;n;sarjana
+2120;   warning;n;peringatan
+2121;   climate;n;iklim
+2122;   cheese;n;keju
+2123;   observation;n;pengamatan
+2124;   childhood;n;masa kecil
+2125;   payment;n;pembayaran
+2126;   sir;n;tuan
+2127;   permit;v;mengizinkan
+2128;   cigarette;n;rokok
+2129;   definition;n;definisi
+2130;   priority;n;prioritas
+2131;   bread;n;roti
+2132;   creation;n;penciptaan
+2133;   graduate;n;kelulusan
+2134;   request;n;permintaan
+2135;   emotion;n;emosi
+2136;   scream;v;menjerit
+2137;   dramatic;j;dramatis
+2138;   universe;n;alam semesta
+2139;   gap;n;celah
+2140;   excellent;j;sangat baik
+2141;   deeply;r;dalam
+2142;   prosecutor;n;jaksa
+2143;   mark;n;tanda
+2144;   green;n;hijau
+2145;   lucky;j;beruntung
+2146;   drag;v;menyeret
+2147;   airline;n;perusahaan penerbangan
+2148;   library;n;perpustakaan
+2149;   agenda;n;jadwal
+2150;   recover;v;memulihkan
+2151;   factory;n;pabrik
+2152;   selection;n;pilihan
+2153;   primarily;r;terutama
+2154;   roof;n;atap
+2155;   unable;j;tidak mampu
+2156;   expense;n;biaya
+2157;   initiative;n;prakarsa
+2158;   diet;n;diet
+2159;   arrest;v;menangkap
+2160;   funding;n;dana
+2161;   therapy;n;terapi
+2162;   wash;v;mencuci
+2163;   schedule;n;susunan acara
+2164;   sad;j;sedih
+2165;   brief;j;singkat
+2166;   housing;n;perumahan
+2167;   post;n;pos
+2168;   purchase;v;membeli
+2169;   existing;j;ada
+2170;   dark;n;kegelapan
+2171;   steel;n;baja
+2172;   regarding;i;mengenai
+2173;   shout;v;berteriak
+2174;   remaining;j;yang tersisa
+2175;   visual;j;visual
+2176;   fairly;r;cukup
+2177;   chip;n;keping
+2178;   violent;j;hebat
+2179;   silent;j;diam
+2180;   suppose;v;menyangka
+2181;   self;n;diri
+2182;   bike;n;sepeda
+2183;   tea;n;teh
+2184;   perceive;v;mempersepsikan
+2185;   comparison;n;perbandingan
+2186;   settlement;n;penyelesaian
+2187;   layer;n;lapisan
+2188;   planning;n;perencanaan
+2189;   far;c;jauh
+2190;   description;n;deskripsi
+2191;   later;j;kemudian
+2192;   slow;v;mengurangi kecepatan
+2193;   slide;v;meluncur
+2194;   widely;r;secara luas
+2195;   wedding;n;pernikahan
+2196;   inform;v;memberitahu
+2197;   portion;n;bagian
+2198;   territory;n;wilayah
+2199;   immediate;j;segera
+2200;   opponent;n;lawan
+2201;   abandon;v;mengabaikan
+2202;   link;n;link
+2203;   mass;j;massa
+2204;   lake;n;danau
+2205;   transform;v;mengubah
+2206;   tension;n;ketegangan
+2207;   display;n;layar
+2208;   leading;j;terkemuka
+2209;   bother;v;mengganggu
+2210;   consist;v;terdiri
+2211;   alcohol;n;alkohol
+2212;   enable;v;memungkinkan
+2213;   bend;v;membengkokkan
+2214;   saving;n;penghematan
+2215;   gain;n;perolehan
+2216;   desert;n;gurun
+2217;   shall;v;akan
+2218;   error;n;kesalahan
+2219;   release;n;pelepasan
+2220;   cop;n;polisi
+2221;   arab;j;arab
+2222;   double;j;dua kali lipat
+2223;   walk;n;berjalan
+2224;   sand;n;pasir
+2225;   spanish;j;spanyol
+2226;   rule;v;memerintah
+2227;   hit;n;pukulan
+2228;   print;n;cetakan
+2229;   preserve;v;mempertahankan
+2230;   passage;n;bagian
+2231;   formal;j;resmi
+2232;   transition;n;transisi
+2233;   existence;n;wujud
+2234;   album;n;album
+2235;   participation;n;partisipasi
+2236;   arrange;v;mengatur
+2237;   atmosphere;n;suasana
+2238;   joint;j;bersama
+2239;   reply;v;membalas
+2240;   cycle;n;siklus
+2241;   opposite;j;seberang
+2242;   lock;v;mengunci
+2243;   whole;n;seluruh
+2244;   deserve;v;pantas menerima
+2245;   consistent;j;konsisten
+2246;   resistance;n;perlawanan
+2247;   discovery;n;penemuan
+2248;   tear;v;merobek
+2249;   exposure;n;eksposur
+2250;   pose;v;mengajukan
+2251;   stream;n;aliran
+2252;   sale;n;penjualan
+2253;   trust;n;kepercayaan
+2254;   benefit;v;menikmati
+2255;   pot;n;pot
+2256;   grand;j;agung
+2257;   mine;p;milik saya
+2258;   hello;u;halo
+2259;   coalition;n;koalisi
+2260;   tale;n;kisah
+2261;   knife;n;pisau
+2262;   resolve;v;menyelesaikan
+2263;   racial;j;rasial
+2264;   phase;n;tahap
+2265;   present;n;hadiah
+2266;   joke;n;lelucon
+2267;   coat;n;mantel
+2268;   mexican;j;meksiko
+2269;   symptom;n;gejala
+2270;   contact;v;menghubungi
+2271;   manufacturer;n;pabrikan
+2272;   philosophy;n;filsafat
+2273;   potato;n;kentang
+2274;   interview;v;mewawancarai
+2275;   foundation;n;dasar
+2276;   quote;v;mengutip
+2277;   online;j;on line
+2278;   pass;n;operan
+2279;   negotiation;n;perundingan
+2280;   good;n;baik
+2281;   urge;v;mendesak
+2282;   occasion;n;kesempatan
+2283;   dust;n;debu
+2284;   breathe;v;bernafas
+2285;   elect;v;memilih
+2286;   investigator;n;peneliti
+2287;   jacket;n;jaket
+2288;   glad;j;senang
+2289;   ordinary;j;biasa
+2290;   reduction;n;pengurangan
+2291;   rarely;r;jarang
+2292;   shift;n;perubahan
+2293;   pack;v;mengepak
+2294;   suicide;n;bunuh diri
+2295;   numerous;j;banyak sekali
+2296;   touch;n;sentuhan
+2297;   substance;n;zat
+2298;   discipline;n;disiplin
+2299;   elsewhere;r;di tempat lain
+2300;   iron;n;besi
+2301;   practical;j;praktis
+2302;   moreover;r;bahkan
+2303;   passion;n;gairah
+2304;   volunteer;n;sukarelawan
+2305;   implement;v;melaksanakan
+2306;   essentially;r;intinya
+2307;   gene;n;gen
+2308;   enforcement;n;pelaksanaan
+2309;   vs;i;melawan (versus)
+2310;   sauce;n;saus
+2311;   independence;n;kemerdekaan
+2312;   marketing;n;pemasaran
+2313;   priest;n;imam
+2314;   amazing;j;menakjubkan
+2315;   intense;j;intens
+2316;   advance;n;muka
+2317;   employer;n;majikan
+2318;   shock;n;syok
+2319;   inspire;v;mengilhami
+2320;   adjust;v;menyesuaikan
+2321;   retire;v;mundur
+2322;   sure;r;tentunya
+2323;   visible;j;terlihat
+2324;   kiss;v;mencium
+2325;   illness;n;penyakit
+2326;   cap;n;topi
+2327;   habit;n;kebiasaan
+2328;   competitive;j;kompetitif
+2329;   juice;n;jus
+2330;   congressional;j;kongres
+2331;   involvement;n;keterlibatan
+2332;   dominate;v;menguasai
+2333;   previously;r;sebelumnya
+2334;   whenever;r;kapanpun
+2335;   transfer;v;memindahkan
+2336;   analyze;v;menganalisa
+2337;   another;p;lainnya
+2338;   attach;v;melampirkan
+2339;   for;c;untuk
+2340;   Indian;n;Indian
+2341;   disaster;n;bencana
+2342;   parking;n;tempat parkir
+2343;   prospect;n;prospek
+2344;   boss;n;bos
+2345;   complaint;n;keluhan
+2346;   championship;n;kejuaraan
+2347;   coach;v;melatih
+2348;   exercise;v;olahraga
+2349;   fundamental;j;mendasar
+2350;   severe;j;parah
+2351;   enhance;v;menambah
+2352;   mystery;n;misteri
+2353;   impose;v;memaksakan
+2354;   poverty;n;kemiskinan
+2355;   other;i;lain
+2356;   entry;n;tempat masuk
+2357;   fat;j;gendut
+2358;   spending;n;pengeluaran
+2359;   king;n;raja
+2360;   evaluate;v;evaluasi
+2361;   symbol;n;simbol
+2362;   still;j;masih
+2363;   trade;v;perdagangan
+2364;   maker;n;pembuat
+2365;   mood;n;suasana hati
+2366;   accomplish;v;menyelesaikan
+2367;   emphasis;n;tekanan
+2368;   illustrate;v;menjelaskan
+2369;   boot;n;sepatu bot
+2370;   monitor;v;memantau
+2371;   asian;j;asia
+2372;   entertainment;n;hiburan
+2373;   bean;n;kacang
+2374;   evaluation;n;evaluasi
+2375;   creature;n;makhluk
+2376;   commander;n;komandan
+2377;   digital;j;digital
+2378;   arrangement;n;pengaturan
+2379;   concentrate;v;memusatkan
+2380;   total;n;total
+2381;   usual;j;biasa
+2382;   anger;n;marah
+2383;   psychological;j;psikologis
+2384;   heavily;r;dengan berat
+2385;   peak;n;puncak
+2386;   approximately;r;sekitar
+2387;   increasing;j;meningkat
+2388;   disorder;n;kekacauan
+2389;   missile;n;misil
+2390;   equally;r;sama-sama
+2391;   vary;v;berbeda
+2392;   wire;n;kawat
+2393;   round;n;bulat
+2394;   distribution;n;distribusi
+2395;   transportation;n;angkutan
+2396;   holy;j;suci
+2397;   ring;v;berdering
+2398;   twin;n;kembar
+2399;   command;n;perintah
+2400;   commission;n;komisi
+2401;   interpretation;n;penafsiran
+2402;   breakfast;n;sarapan
+2403;   stop;n;perhentian
+2404;   strongly;r;dengan kuat
+2405;   engineering;n;teknik
+2406;   luck;n;keberuntungan
+2407;   so-called;j;apa yang disebut
+2408;   constant;j;konstan
+2409;   race;v;berlomba
+2410;   clinic;n;klinik
+2411;   veteran;n;veteran
+2412;   smell;v;berbau
+2413;   tablespoon;n;sendok makan
+2414;   capable;j;mampu
+2415;   nervous;j;gugup
+2416;   tourist;n;turis
+2417;   light;v;menyalakan
+2418;   toss;v;melambungkan
+2419;   crucial;j;sangat penting
+2420;   bury;v;mengubur
+2421;   pray;v;berdoa
+2422;   tomato;n;tomat
+2423;   exception;n;pengecualian
+2424;   butter;n;mentega
+2425;   deficit;n;defisit
+2426;   bathroom;n;kamar mandi
+2427;   objective;n;objektif
+2428;   block;v;memblokir
+2429;   electronic;j;elektronik
+2430;   ally;n;sekutu
+2431;   journey;n;perjalanan
+2432;   reputation;n;reputasi
+2433;   mixture;n;campuran
+2434;   surely;r;dengan pasti
+2435;   tower;n;menara
+2436;   smoke;n;asap
+2437;   confront;v;menghadapi
+2438;   pure;j;murni
+2439;   glance;v;melihat sekilas
+2440;   dimension;n;dimensi
+2441;   toy;n;mainan
+2442;   prisoner;n;tawanan
+2443;   fellow;j;sesama
+2444;   smooth;j;halus
+2445;   nearby;j;dekat
+2446;   peer;n;rekan
+2447;   designer;n;perancang
+2448;   personnel;n;personil
+2449;   shape;v;membentuk
+2450;   educator;n;pendidik
+2451;   relative;n;sanak keluarga
+2452;   immigration;n;imigrasi
+2453;   belt;n;sabuk
+2454;   teaspoon;n;sendok teh
+2455;   birthday;n;ulang tahun
+2456;   implication;n;implikasi
+2457;   perfectly;r;dengan sempurna
+2458;   coast;n;pantai
+2459;   supporter;n;pendukung
+2460;   accompany;v;menemani
+2461;   silver;n;perak
+2462;   teenager;n;remaja
+2463;   recognition;n;pengakuan
+2464;   retirement;n;pensiun
+2465;   flag;n;bendera
+2466;   recovery;n;pemulihan
+2467;   whisper;v;membisikkan
+2468;   watch;n;jam tangan
+2469;   gentleman;n;pria
+2470;   corn;n;jagung
+2471;   moon;n;bulan
+2472;   inner;j;bagian dalam
+2473;   junior;j;muda
+2474;   rather;c;agak
+2475;   throat;n;tenggorokan
+2476;   salary;n;gaji
+2477;   swing;v;mengayunkan
+2478;   observer;n;pengamat
+2479;   due;j;karena
+2480;   straight;j;lurus
+2481;   publication;n;publikasi
+2482;   pretty;j;cantik
+2483;   crop;n;tanaman
+2484;   dig;v;menggali
+2485;   strike;n;serangan
+2486;   permanent;j;permanen
+2487;   plant;v;menanam
+2488;   phenomenon;n;fenomena
+2489;   anxiety;n;kegelisahan
+2490;   unlike;i;tidak seperti
+2491;   wet;j;basah
+2492;   literally;r;secara harfiah
+2493;   resist;v;menolak
+2494;   convention;n;konvensi
+2495;   embrace;v;merangkul
+2496;   supply;v;menyediakan
+2497;   assist;v;membantu
+2498;   exhibition;n;pameran
+2499;   construct;v;membangun
+2500;   viewer;n;penonton
+2501;   pan;n;panci
+2502;   consultant;n;konsultan
+2503;   soon;c;segera
+2504;   line;v;melapisi
+2505;   administrator;n;administrator
+2506;   date;v;berkencan
+2507;   occasionally;r;kadang
+2508;   mayor;n;walikota
+2509;   consideration;n;pertimbangan
+2510;   CEO;n;CEO
+2511;   secure;v;menjamin
+2512;   pink;j;berwarna merah muda
+2513;   smoke;v;merokok
+2514;   estimate;n;perkiraan
+2515;   buck;n;dollar
+2516;   historic;j;bersejarah
+2517;   poem;n;sajak
+2518;   grandmother;n;nenek
+2519;   bind;v;mengikat
+2520;   fifth;m;kelima
+2521;   constantly;r;senantiasa
+2522;   enterprise;n;perusahaan
+2523;   favor;v;menyokong
+2524;   testing;n;pengujian
+2525;   stomach;n;perut
+2526;   apparent;j;semu
+2527;   weigh;v;menimbang
+2528;   install;v;memasang
+2529;   sensitive;j;peka
+2530;   suggestion;n;saran
+2531;   mail;n;surat
+2532;   recipe;n;resep
+2533;   reasonable;j;masuk akal
+2534;   preparation;n;persiapan
+2535;   wooden;j;kayu
+2536;   elementary;j;dasar
+2537;   concert;n;konser
+2538;   aggressive;j;agresif
+2539;   false;j;salah
+2540;   intention;n;niat
+2541;   channel;n;saluran
+2542;   extreme;j;ekstrim
+2543;   tube;n;tabung
+2544;   drawing;n;gambar
+2545;   protein;n;protein
+2546;   quit;v;berhenti
+2547;   absence;n;ketiadaan
+2548;   roll;n;gulungan
+2549;   latin;j;latin
+2550;   rapidly;r;cepat
+2551;   jail;n;penjara
+2552;   comment;v;mengomentari
+2553;   diversity;n;perbedaan
+2554;   honest;j;jujur
+2555;   palestinian;j;palestina
+2556;   pace;n;kecepatan
+2557;   employment;n;pekerjaan
+2558;   speaker;n;pembicara
+2559;   impression;n;kesan
+2560;   essay;n;karangan
+2561;   respondent;n;responden
+2562;   giant;j;raksasa
+2563;   cake;n;kue
+2564;   historian;n;sejarawan
+2565;   negotiate;v;berunding
+2566;   restore;v;mengembalikan
+2567;   substantial;j;besar
+2568;   pop;v;bermunculan
+2569;   particular;r;tertentu
+2570;   specialist;n;spesialis
+2571;   origin;n;asal
+2572;   approval;n;persetujuan
+2573;   mine;n;ranjau
+2574;   quietly;r;diam-diam
+2575;   advise;v;menasihati
+2576;   conventional;j;konvensional
+2577;   drop;n;penurunan
+2578;   count;n;menghitung
+2579;   depth;n;kedalaman
+2580;   wealth;n;kekayaan
+2581;   disability;n;ketidakmampuan
+2582;   shell;n;kulit
+2583;   general;r;umum
+2584;   criticize;v;mengkritik
+2585;   fast;j;cepat
+2586;   professional;n;profesional
+2587;   effectively;r;efektif
+2588;   biological;j;biologis
+2589;   pack;n;bungkusan
+2590;   onion;n;bawang
+2591;   deputy;n;wakil
+2592;   flat;j;datar
+2593;   brand;n;merek
+2594;   assure;v;memastikan
+2595;   mad;j;gila
+2596;   award;n;hadiah
+2597;   criteria;n;kriteria
+2598;   dealer;n;pedagang
+2599;   via;i;melalui
+2600;   alternative;j;alternatif
+2601;   utility;n;kegunaan
+2602;   precisely;r;dengan tepat
+2603;   arise;v;timbul
+2604;   armed;j;bersenjata
+2605;   nevertheless;r;namun
+2606;   highway;n;jalan raya
+2607;   clinical;j;klinis
+2608;   routine;n;rutin
+2609;   schedule;v;merencanakan
+2610;   wage;n;upah
+2611;   normally;r;biasanya
+2612;   phrase;n;frasa
+2613;   ingredient;n;bahan
+2614;   stake;n;saham
+2615;   muslim;j;muslim
+2616;   dream;v;bermimipi
+2617;   fiber;n;serat
+2618;   activist;n;aktivis
+2619;   islamic;j;islam
+2620;   snap;v;membentak
+2621;   terrorism;n;terorisme
+2622;   refugee;n;pengungsi
+2623;   incorporate;v;menggabungkan
+2624;   hip;n;panggul
+2625;   ultimate;j;terakhir
+2626;   switch;v;beralih
+2627;   corporation;n;perusahaan
+2628;   valuable;j;berharga
+2629;   assumption;n;anggapan
+2630;   gear;n;gigi
+2631;   graduate;v;lulus
+2632;   barrier;n;pembatas
+2633;   minor;j;minor
+2634;   provision;n;ketentuan
+2635;   killer;n;pembunuh
+2636;   assign;v;menetapkan
+2637;   gang;n;gerombolan
+2638;   developing;j;mengembangkan
+2639;   classic;j;klasik
+2640;   chemical;n;bahan kimia
+2641;   wave;v;melambai
+2642;   label;n;label
+2643;   teen;n;remaja
+2644;   index;n;indeks
+2645;   vacation;n;liburan
+2646;   advocate;n;pengacara
+2647;   draft;n;konsep
+2648;   extraordinary;j;luar biasa
+2649;   heaven;n;surga
+2650;   rough;j;kasar
+2651;   yell;v;berteriak
+2652;   pregnant;j;hamil
+2653;   distant;j;jauh
+2654;   drama;n;drama
+2655;   satellite;n;satelit
+2656;   personally;r;sendiri
+2657;   wonder;n;keajaiban
+2658;   clock;n;jam
+2659;   chocolate;n;cokelat
+2660;  italian;j;italia
+2661;   canadian;j;canada
+2662;   ceiling;n;plafon
+2663;   sweep;v;menyapu
+2664;   advertising;n;iklan
+2665;   universal;j;universal
+2666;   spin;v;berputar
+2667;   house;v;menyediakan rumah
+2668;   button;n;tombol
+2669;   bell;n;bel
+2670;   rank;n;pangkat
+2671;   darkness;n;kegelapan
+2672;   ahead;i;di depan
+2673;   clothing;n;pakaian
+2674;   super;j;super
+2675;   yield;v;menghasilkan
+2676;   fence;n;pagar
+2677;   portrait;n;potret
+2678;   paint;n;cat
+2679;   survival;n;kelangsungan hidup
+2680;   roughly;r;kurang lebih
+2681;   lawsuit;n;gugatan
+2682;   bottom;j;bawah
+2683;   testimony;n;kesaksian
+2684;   bunch;n;kumpulan
+2685;   beat;n;denyut
+2686;   wind;v;melilit
+2687;   found;v;mendirikan
+2688;   burden;n;beban
+2689;   react;v;reaksi
+2690;   chamber;n;ruang
+2691;   furniture;n;mebel
+2692;   cooperation;n;kerja sama
+2693;   string;n;tali
+2694;   ceremony;n;upacara
+2695;   communicate;v;menyampaikan
+2696;   taste;v;mencicipi
+2697;   cheek;n;pipi
+2698;   lost;j;kalah
+2699;   profile;n;profil
+2700;   mechanism;n;mekanisme
+2701;   disagree;v;tidak setuju
+2702;   like;r;seperti
+2703;   penalty;n;penalti
+2704;   match;n;pertandingan
+2705;   ie;r;yaitu
+2706;   advance;v;memajukan
+2707;   resort;n;tempat istirahat
+2708;   destruction;n;penghancuran
+2709;   bear;n;beruang
+2710;   unlikely;j;tidak sepertinya
+2711;   tissue;n;tisu
+2712;   constitutional;j;konstitusional
+2713;   pant;n;nafas pendek
+2714;   stranger;n;orang asing
+2715;   infection;n;infeksi
+2716;   cabinet;n;kabinet
+2717;   broken;j;rusak
+2718;   apple;n;apel
+2719;   electric;j;listrik
+2720;   proceed;v;memproses
+2721;   track;v;mengikuti jejak
+2722;   bet;v;bertaruh
+2723;   literary;j;sastra
+2724;   virus;n;virus
+2725;   stupid;j;bodoh
+2726;   dispute;n;perselisihan
+2727;   fortune;n;nasib
+2728;   strategic;j;strategis
+2729;   assistant;n;asisten
+2730;   overcome;v;mengatasi
+2731;   remarkable;j;luar biasa
+2732;   occupy;v;menempati
+2733;   statistics;n;statistik
+2734;   shopping;n;perbelanjaan
+2735;   cousin;n;sepupu
+2736;   encounter;v;menghadapi
+2737;   wipe;v;menyeka
+2738;   initially;r;mulanya
+2739;   blind;j;buta
+2740;   white;n;putih
+2741;   port;n;pelabuhan
+2742;   honor;v;menghormati
+2743;   electricity;n;listrik
+2744;   genetic;j;genetik
+2745;   adviser;n;penasihat
+2746;   pay;n;gaji
+2747;   spokesman;n;juru bicara
+2748;   retain;v;menahan
+2749;   latter;d;terakhir
+2750;   incentive;n;insentif
+2751;   slave;n;budak
+2752;   chemical;j;bahan kimia
+2753;   translate;v;menterjemahkan
+2754;   accurate;j;tepat
+2755;   whereas;c;sedangkan
+2756;   terror;n;teror
+2757;   though;r;meskipun
+2758;   expansion;n;perluasan
+2759;   elite;n;elite
+2760;   olympic;j;olimpiade
+2761;   dirt;n;kotoran
+2762;   odd;j;aneh
+2763;   rice;n;nasib
+2764;   bullet;n;peluru
+2765;   tight;j;ketat
+2766;   bible;n;alikitab
+2767;   chart;n;grafik
+2768;   solar;j;tenaga surya
+2769;   decline;n;kemunduran
+2770;   conservative;n;konservatif
+2771;   process;v;mengolah
+2772;   square;j;kotak
+2773;   stick;n;tongkat
+2774;   concentration;n;konsentrasi
+2775;   complicated;j;rumit
+2776;   gently;r;dengan lembut
+2777;   champion;n;juara
+2778;   scenario;n;skenario
+2779;   telescope;n;teleskop
+2780;   reflection;n;refleksi
+2781;   revolution;n;revolusi
+2782;   strip;n;bilah
+2783;   interpret;v;menafsirkan
+2784;   friendly;j;ramah
+2785;   tournament;n;turnamen
+2786;   fiction;n;fiksi
+2787;   detect;v;mendeteksi
+2788;   balance;v;mengimbangkan
+2789;   likely;r;mungkin sekali
+2790;   tremendous;j;dahsyat
+2791;   lifetime;n;seumur hidup
+2792;   recommendation;n;rekomendasi
+2793;   flow;v;mengalir
+2794;   senator;n;senator
+2795;   market;v;memasarkan
+2796;   hunting;n;berburu
+2797;   salad;n;salad
+2798;   guarantee;v;menjamin
+2799;   innocent;j;tidak bersalah
+2800;   boundary;n;batas
+2801;   pause;v;berhenti sebentar
+2802;   remote;j;terpencil
+2803;   satisfaction;n;kepuasan
+2804;   journal;n;jurnal
+2805;   bench;n;bangku
+2806;   lover;n;kekasih
+2807;   raw;j;mentah
+2808;   awareness;n;kesadaran
+2809;   surprising;j;mengejutkan
+2810;   withdraw;v;menarik diri
+2811;   general;n;umum
+2812;   deck;n;geladak
+2813;   similarly;r;demikian pula
+2814;   newly;r;baru saja
+2815;   pole;n;tiang
+2816;   testify;v;bersaksi
+2817;   mode;n;mode
+2818;   dialogue;n;dialog
+2819;   imply;v;berarti
+2820;   naturally;r;tentu saja
+2821;   mutual;j;saling
+2822;   founder;n;pendiri
+2823;   top;i;puncak
+2824;   advanced;j;maju
+2825;   pride;n;kebanggaan
+2826;   dismiss;v;memberhentikan
+2827;   aircraft;n;pesawat terbang
+2828;   delivery;n;pengiriman
+2829;   mainly;r;terutama
+2830;   bake;v;membakar
+2831;   freeze;v;membekukan
+2832;   platform;n;mimbar
+2833;   finance;n;keuangan
+2834;   sink;v;tenggelam
+2835;   attractive;j;menarik
+2836;   respect;v;menghormati
+2837;   diverse;j;berbeda
+2838;   relevant;j;relevan
+2839;   ideal;j;ideal
+2840;   joy;n;kegembiraan
+2841;   worth;n;bernilai
+2842;   regularly;r;secara teratur
+2843;   working;j;kerja
+2844;   singer;n;penyanyi
+2845;   evolve;v;berkembang
+2846;   shooting;n;penembakan
+2847;   partly;r;sebagian
+2848;   unknown;j;tidak diketahui
+2849;   assistant;j;pembantu
+2850;   offense;n;   offense
+2851;   counter;n;penghitung
+2852;   DNA;n;DNA
+2853;   smell;n;bau
+2854;   potentially;r;berpotensi
+2855;   transfer;n;pemindahan
+2856;   thirty;m;tigapuluh
+2857;   justify;v;membenarkan
+2858;   protest;n;protes
+2859;   crash;n;tabrakan
+2860;   craft;n;kerajinan
+2861;   treaty;n;perjanjian
+2862;   terrorist;n;teroris
+2863;   insight;n;wawasan
+2864;   possess;v;memiliki
+2865;   politically;r;secara politis
+2866;   tap;v;mengetuk
+2867;   lie;n;kebohongan
+2868;   extensive;j;luas
+2869;   episode;n;episode
+2870;   double;v;menggandakan
+2871;   swim;v;berenang
+2872;   tire;v;melelahkan
+2873;   fault;n;kesalahan
+2874;   loose;j;longgar
+2875;   free;v;membebaskan
+2876;   shortly;r;segera
+2877;   originally;r;semula
+2878;   considerable;j;besar
+2879;   prior;i;sebelumnya
+2880;   intellectual;j;intelektual
+2881;   mix;n;campuran
+2882;   assault;n;serangan
+2883;   relax;v;bersantai
+2884;   stair;n;anak tangga
+2885;   adventure;n;petualangan
+2886;   external;j;luar
+2887;   proof;n;bukti
+2888;   confident;j;percaya diri
+2889;   headquarters;n;markas besar
+2890;   sudden;j;tiba-tiba
+2891;   dirty;j;kotor
+2892;   violation;n;pelanggaran
+2893;   tongue;n;lidah
+2894;   license;n;lisensi
+2895;   hold;n;memegang
+2896;   shelter;n;tempat perlindungan
+2897;   rub;v;menggosok
+2898;   controversy;n;kontroversi
+2899;   entrance;n;jalan masuk
+2900;   favorite;n;favorit
+2901;   practice;v;berlatih
+2902;   properly;r;tepat
+2903;   fade;v;luntur
+2904;   defensive;j;defensif
+2905;   tragedy;n;tragedi
+2906;   net;n;jaring
+2907;   characterize;v;mencirikan
+2908;   funeral;n;pemakaman
+2909;   profession;n;profesi
+2910;   alter;v;mengubah
+2911;   spot;v;melihat
+2912;   constitute;v;merupakan
+2913;   establishment;n;pembentukan
+2914;   squeeze;v;meremas
+2915;   imagination;n;imajinasi
+2916;   target;v;merencanakan
+2917;   mask;n;topeng
+2918;   convert;v;mengubah
+2919;   comprehensive;j;menyeluruh
+2920;   prominent;j;menonjol
+2921;   presentation;n;presentasi
+2922;   regardless;r;tidak peduli
+2923;   easy;r;dengan mudah
+2924;   load;v;memuat
+2925;   stable;j;stabil
+2926;   introduction;n;pengantar
+2927;   appeal;v;menarik
+2928;   pretend;v;berpura-pura
+2929;   not;c;tidak
+2930;   elderly;j;tua
+2931;   representation;n;perwakilan
+2932;   deer;n;rusa
+2933;   split;v;membagi
+2934;   violate;v;melanggar
+2935;   partnership;n;kemitraan
+2936;   pollution;n;polusi
+2937;   emission;n;emisi
+2938;   steady;j;mantap
+2939;   vital;j;vital
+2940;   neither;d;tidak ada
+2941;   fate;n;takdir
+2942;   earnings;n;pendapatan
+2943;   oven;n;tungku
+2944;   distinction;n;perbedaan
+2945;   segment;n;segmen
+2946;   nowhere;r;tidak ada tempat
+2947;   poet;n;penyair
+2948;   mere;j;belaka
+2949;   exciting;j;seru
+2950;   variation;n;variasi
+2951;   comfort;n;kenyamanan
+2952;   radical;j;radikal
+2953;   stress;v;menekankan
+2954;   adapt;v;menyesuaikan
+2955;   irish;j;orang irlandia
+2956;   honey;n;madu
+2957;   correspondent;n;koresponden
+2958;   pale;j;pucat
+2959;   musician;n;pemusik
+2960;   significance;n;makna
+2961;   load;n;muatan
+2962;   round;j;bulat
+2963;   vessel;n;kapal
+2964;   storage;n;penyimpanan
+2965;   flee;v;melarikan diri
+2966;   mm-hmm;u;mm-hmm
+2967;   leather;n;kulit
+2968;   distribute;v;mengedarkan
+2969;   evolution;n;evolusi
+2970;   ill;j;sakit
+2971;   tribe;n;suku
+2972;   shelf;n;rak
+2973;   can;n;kaleng
+2974;   grandfather;n;kakek
+2975;   lawn;n;halaman rumput
+2976;   buyer;n;pembeli
+2977;   dining;n;makan
+2978;   wisdom;n;kebijaksanaan
+2979;   council;n;dewan
+2980;   vulnerable;j;rentan
+2981;   instance;n;contoh
+2982;   garlic;n;bawang putih
+2983;   capability;n;kemampuan
+2984;   poetry;n;puisi
+2985;   celebrity;n;selebriti
+2986;   gradually;r;bertahap
+2987;   stability;n;stabilitas
+2988;   doubt;v;keraguan
+2989;   fantasy;n;fantasi
+2990;   scared;j;takut
+2991;   guide;v;memandu
+2992;   plot;n;alur
+2993;   framework;n;kerangka
+2994;   gesture;n;sikap
+2995;   depending;i;tergantung
+2996;   ongoing;j;sedang berlangsung
+2997;   psychology;n;psikologi
+2998;   since;r;sejak
+2999;   counselor;n;penasihat
+3000;   witness;v;menyaksikan
+3001;   chapter;n;bab
+3002;   fellow;n;sesama
+3003;   divorce;n;perceraian
+3004;   owe;v;berhutang
+3005;   pipe;n;pipa
+3006;   athletic;j;atletis
+3007;   slight;j;sedikit
+3008;   math;n;matematika
+3009;   shade;n;naungan
+3010;   tail;n;ekor
+3011;   sustain;v;menopang
+3012;   mount;v;meningkat
+3013;   obligation;n;kewajiban
+3014;   angle;n;sudut
+3015;   palm;n;telapak tangan
+3016;   differ;v;berbeda
+3017;   custom;n;adat
+3018;   store;v;menyimpan
+3019;   economist;n;ekonom
+3020;   fifteen;m;limabelas
+3021;   soup;n;sup
+3022;   celebration;n;perayaan
+3023;   efficient;j;efisien
+3024;   damage;v;merusak
+3025;   composition;n;komposisi
+3026;   satisfy;v;memuaskan
+3027;   pile;n;tumpukan
+3028;   briefly;r;secara singkat
+3029;   carbon;n;karbon
+3030;   closer;j;lebih dekat
+3031;   consume;v;mengkonsumsi
+3032;   scheme;n;skema
+3033;   crack;n;retakan
+3034;   frequency;n;frekuensi
+3035;   tobacco;n;tembakau
+3036;   survivor;n;orang yang selamat
+3037;   besides;r;sebagai tambahan
+3038;   in;c;di
+3039;   psychologist;n;psikolog
+3040;   wealthy;j;kaya
+3041;   galaxy;n;galaksi
+3042;   given;j;diberikan
+3043;   fund;v;membiayai
+3044;   ski;n;permainan ski
+3045;   limitation;n;keterbatasan
+3046;   OK;j;baik
+3047;   trace;v;mengikuti jejak
+3048;   appointment;n;janji
+3049;   preference;n;pilihan
+3050;   meter;n;meter
+3051;   explosion;n;ledakan
+3052;   arrest;n;menangkap
+3053;   publicly;r;di depan umum
+3054;   incredible;j;luar biasa
+3055;   fighter;n;pejuang
+3056;   rapid;j;cepat
+3057;   admission;n;penerimaan
+3058;   hunter;n;pemburu
+3059;   educate;v;mendidik
+3060;   painful;j;menyakitkan
+3061;   hay;n;jerami
+3062;   aide;n;pembantu
+3063;   infant;n;bayi
+3064;   calculate;v;menghitung
+3065;   fifty;m;lima puluh
+3066;   rid;v;membersihkan
+3067;   porch;n;beranda
+3068;   tendency;n;kecenderungan
+3069;   uniform;n;seragam
+3070;   formation;n;pembentukan
+3071;   scholarship;n;beasiswa
+3072;   reservation;n;reservasi
+3073;   efficiency;n;efisiensi
+3074;   waste;v;membuang
+3075;   qualify;v;memenuhi syarat
+3076;   mall;n;mall
+3077;   derive;v;memperoleh
+3078;   scandal;n;skandal
+3079;   PC;n;PC
+3080;   helpful;j;bermanfaat
+3081;   impress;v;mengesankan
+3082;   heel;n;tumit
+3083;   resemble;v;menyerupai
+3084;   privacy;n;keleluasaan pribadi
+3085;   fabric;n;kain
+3086;   surprise;v;mengherankan
+3087;   contest;n;kontes
+3088;   proportion;n;proporsi
+3089;   guideline;n;pedoman
+3090;   rifle;n;senapan
+3091;   maintenance;n;pemeliharaan
+3092;   conviction;n;keyakinan
+3093;   trick;n;tipuan
+3094;   organic;j;organik
+3095;   tent;n;tenda
+3096;   examination;n;pemeriksaan
+3097;   publisher;n;penerbit
+3098;   strengthen;v;memperkuat
+3099;   French;n;Perancis
+3100;   proposed;j;diusulkan
+3101;   myth;n;mitos
+3102;   sophisticated;j;canggih
+3103;   cow;n;sapi
+3104;   etc;r;dan lain lain
+3105;   standing;n;kedudukan
+3106;   asleep;j;tertidur
+3107;   tennis;n;tenis
+3108;   nerve;n;saraf
+3109;   barrel;n;tong
+3110;   bombing;n;pemboman
+3111;   membership;n;keanggotaan
+3112;   ratio;n;perbandingan
+3113;   menu;n;menu
+3114;   purchase;n;pembelian
+3115;   controversial;j;kontroversial
+3116;   desperate;j;putus asa
+3117;   rate;v;menilai
+3118;   lifestyle;n;gaya hidup
+3119;   humor;n;humor
+3120;   loud;j;lantang
+3121;   glove;n;sarung tangan
+3122;   suspect;n;tersangka
+3123;   sufficient;j;cukup
+3124;   narrative;n;cerita
+3125;   photographer;n;juru potret
+3126;   helicopter;n;helikopter
+3127;   Catholic;n;Katolik
+3128;   modest;j;sederhana
+3129;   provider;n;pemberi
+3130;   delay;n;penundaan
+3131;   agricultural;j;pertanian
+3132;   explode;v;meledak
+3133;   stroke;n;pukulan
+3134;   scope;n;cakupan
+3135;   punishment;n;hukuman
+3136;   handful;n;segenggam
+3137;   badly;r;dengan sangat buruk
+3138;   horizon;n;horison
+3139;   curious;j;ingin tahu
+3140;   downtown;j;pusat kota
+3141;   girlfriend;n;pacar perempuan
+3142;   prompt;v;mendesak
+3143;   request;v;meminta
+3144;   cholesterol;n;kolesterol
+3145;   absorb;v;menyerap
+3146;   adjustment;n;pengaturan
+3147;   taxpayer;n;pembayar pajak
+3148;   eager;j;bersemangat
+3149;   principal;n;kepala sekolah
+3150;   detailed;j;terperinci
+3151;   motivation;n;motivasi
+3152;   assignment;n;tugas
+3153;   restriction;n;larangan
+3154;   across;r;sebrang
+3155;   palestinian;n;palestina
+3156;   laboratory;n;laboratorium
+3157;   workshop;n;bengkel
+3158;   differently;r;berbeda
+3159;   auto;n;mobil
+3160;   romantic;j;romantis
+3161;   cotton;n;kapas
+3162;   motor;n;motor
+3163;   sue;v;menuntut
+3164;   flavor;n;rasa
+3165;   overlook;v;mengabaikan
+3166;   float;v;mengapung
+3167;   undergo;v;menjalani
+3168;   sequence;n;urutan
+3169;   demonstration;n;demonstrasi
+3170;   jet;n;jet
+3171;   orange;j;jingga
+3172;   consumption;n;konsumsi
+3173;   assert;v;menegaskan
+3174;   blade;n;pedang
+3175;   temporary;j;sementara
+3176;   medication;n;obat
+3177;   print;v;mencetak
+3178;   cabin;n;kabin
+3179;   bite;v;menggigit
+3180;   relative;j;relatif
+3181;   edition;n;edisi
+3182;   valley;n;lembah
+3183;   yours;p;milikmu
+3184;   pitch;n;nada
+3185;   pine;n;pinus
+3186;   brilliant;j;cemerlang
+3187;   versus;i;melawan
+3188;   manufacturing;n;manufaktur
+3189;   risk;v;beresiko
+3190;   christian;n;kristen
+3191;   complex;n;kompleks
+3192;   absolute;j;mutlak
+3193;   chef;n;koki
+3194;   discrimination;n;diskriminasi
+3195;   offensive;j;serangan
+3196;   german;n;jerman
+3197;   suit;v;sesuai
+3198;   boom;n;ledakan
+3199;   register;v;mandaftarkan
+3200;   appoint;v;menunjuk
+3201;   heritage;n;warisan
+3202;   God;n;Allah
+3203;   terrorist;j;teroris
+3204;   dominant;j;dominan
+3205;   successfully;r;dengan sukses
+3206;   shit;n;kotoran
+3207;   lemon;n;lemon
+3208;   hungry;j;lapar
+3209;   sense;v;merasakan
+3210;   dry;v;mengeringkan
+3211;   wander;v;mengembara
+3212;   submit;v;mengajukan
+3213;   economics;n;ekonomi
+3214;   naked;j;telanjang
+3215;   anticipate;v;mengantisipasi
+3216;   nut;n;kacang
+3217;   legacy;n;warisan
+3218;   extension;n;perpanjangan
+3219;   shrug;v;mengangkat bahu
+3220;   fly;n;lalat
+3221;   battery;n;baterai
+3222;   arrival;n;kedatangan
+3223;   legitimate;j;sah
+3224;   orientation;n;orientasi
+3225;   inflation;n;inflasi
+3226;   cope;v;manaungi
+3227;   flame;n;nyala api
+3228;   cluster;n;kelompok
+3229;   host;v;menerima tamu
+3230;   wound;n;luka
+3231;   dependent;j;tergantung
+3232;   shower;n;pancuran
+3233;   institutional;j;kelembagaan
+3234;   depict;v;menggambarkan
+3235;   operating;n;operasi
+3236;   flesh;n;daging
+3237;   garage;n;garasi
+3238;   operator;n;operator
+3239;   instructor;n;pengajar
+3240;   collapse;v;tumbang
+3241;   borrow;v;meminjam
+3242;   furthermore;r;selanjutnya
+3243;   comedy;n;komedi
+3244;   mortgage;n;hipotek
+3245;   sanction;n;sanksi
+3246;   civilian;j;sipil
+3247;   twelve;m;duabelas
+3248;   weekly;j;mingguan
+3249;   habitat;n;habitat
+3250;   grain;n;gandum
+3251;   brush;v;menyikat
+3252;   consciousness;n;kesadaran
+3253;   devote;v;mencurahkan
+3254;   crack;v;retak
+3255;   measurement;n;pengukuran
+3256;   province;n;propinsi
+3257;   ease;v;meredakan
+3258;   seize;v;merebut
+3259;   ethics;n;etika
+3260;   nomination;n;pencalonan
+3261;   permission;n;izin
+3262;   wise;j;bijaksana
+3263;   actress;n;aktris
+3264;   summit;n;puncak
+3265;   acid;n;asam
+3266;   odds;n;peluang
+3267;   gifted;j;berbakat
+3268;   frustration;n;frustrasi
+3269;   medium;n;medium
+3270;   function;v;berfungsi
+3271;   physically;r;secara fisik
+3272;   grant;n;hibah
+3273;   distinguish;v;membedakan
+3274;   shore;n;pantai
+3275;   repeatedly;r;berkali-kali
+3276;   lung;n;paru-paru
+3277;   firm;j;perusahaan
+3278;   running;j;berurutan
+3279;   correct;v;memperbaiki
+3280;   distinct;j;berbeda
+3281;   artistic;j;artistik
+3282;   discourse;n;ceramah
+3283;   basket;n;keranjang
+3284;   ah;u;ah
+3285;   fighting;n;perkelahian
+3286;   impressive;j;impresif
+3287;   competitor;n;pesaing
+3288;   ugly;j;jelek
+3289;   worried;j;cemas
+3290;   portray;v;menggambarkan
+3291;   powder;n;bubuk
+3292;   ghost;n;hantu
+3293;   persuade;v;membujuk
+3294;   moderate;j;moderat
+3295;   subsequent;j;yg selanjutnya
+3296;   continued;j;lanjutnya
+3297;   cookie;n;kue kering
+3298;   carrier;n;pembawa
+3299;   cooking;n;masak memasak
+3300;   frequent;j;sering
+3301;   ban;v;melarang
+3302;   swing;n;ayunan
+3303;   orange;n;jeruk
+3304;   awful;j;mengerikan
+3305;   admire;v;mengagumi
+3306;   pet;n;hewan peliharaan
+3307;   miracle;n;keajaiban
+3308;   exceed;v;melampaui
+3309;   rhythm;n;irama
+3310;   widespread;j;tersebar luas
+3311;   killing;n;pembunuhan
+3312;   lovely;j;menyenangkan
+3313;   sin;n;dosa
+3314;   charity;n;amal
+3315;   script;n;naskah
+3316;   tactic;n;taktik
+3317;   identification;n;identifikasi
+3318;   transformation;n;transformasi
+3319;   everyday;j;setiap hari
+3320;   headline;n;judul
+3321;   crash;v;manabrak
+3322;   venture;n;usaha
+3323;   invasion;n;serbuan
+3324;   military;n;militer
+3325;   nonetheless;r;meskipun begitu
+3326;   adequate;j;memadai
+3327;   piano;n;piano
+3328;   grocery;n;toko kelontong
+3329;   intensity;n;intensitas
+3330;   exhibit;v;mempertunjukkan
+3331;   high;r;tinggi
+3332;   blanket;n;selimut
+3333;   margin;n;batas
+3334;   principal;j;kepala sekolah
+3335;   quarterback;n;quarterback
+3336;   mouse;n;mouse
+3337;   rope;n;tali
+3338;   concrete;j;beton
+3339;   prescription;n;resep
+3340;  african-american;j;amerika afrika
+3341;   chase;v;mengejar
+3342;   document;v;dokumen
+3343;   brick;n;bata
+3344;   recruit;v;mengerahkan
+3345;   patch;n;tambalan
+3346;   consensus;n;pemufakatan
+3347;   horror;n;kengerian
+3348;   recording;n;rekaman
+3349;   changing;j;berubah
+3350;   painter;n;pelukis
+3351;   colonial;j;kolonial
+3352;   pie;n;pai
+3353;   sake;n;demi
+3354;   gaze;n;tatapan
+3355;   courage;n;keberanian
+3356;   pregnancy;n;kehamilan
+3357;   swear;v;bersumpah
+3358;   defeat;v;mengalahkan
+3359;   clue;n;petunjuk
+3360;   reinforce;v;memperkuat
+3361;   win;n;kemenangan
+3362;   confusion;n;kebingungan
+3363;   slice;n;irisan
+3364;   occupation;n;pendudukan
+3365;   dear;j;sayang
+3366;   coal;n;batu bara
+3367;   sacred;j;sakral
+3368;   criminal;n;pidana
+3369;   formula;n;rumus
+3370;   cognitive;j;kognitif
+3371;   collective;j;kolektif
+3372;   exact;j;tepat
+3373;   uncle;n;paman
+3374;   square;n;kotak
+3375;   captain;n;kapten
+3376;   sigh;v;mendesah
+3377;   attribute;v;memperhubungkan
+3378;   dare;v;sampai hati
+3379;   okay;j;baik
+3380;   homeless;j;tuna wisma
+3381;   cool;v;mendinginkan
+3382;   gallery;n;galeri
+3383;   soccer;n;sepak bola
+3384;   defendant;n;terdakwa
+3385;   tunnel;n;terowongan
+3386;   fitness;n;kebugaran
+3387;   lap;n;putaran
+3388;   grave;n;kuburan
+3389;   toe;n;ujung kaki
+3390;   container;n;wadah
+3391;   virtue;n;kebajikan
+3392;   abroad;r;di luar negeri
+3393;   architect;n;arsitek
+3394;   dramatically;r;secara dramatis
+3395;   makeup;n;dandan
+3396;   inquiry;n;penyelidikan
+3397;   rose;n;mawar
+3398;   surprisingly;r;dengan mengherankan
+3399;   highlight;v;menyoroti
+3400;   decrease;v;mengurangi
+3401;   indication;n;indikasi
+3402;   rail;n;rel
+3403;   anniversary;n;ulang tahun
+3404;   couch;n;sofa
+3405;   alliance;n;persekutuan
+3406;   hypothesis;n;hipotesa
+3407;   boyfriend;n;pacar
+3408;   compose;v;menyusun
+3409;   peer;v;mengintai
+3410;   mess;n;kekacauan
+3411;   rank;v;menduduki
+3412;   legend;n;legenda
+3413;   regulate;v;mengatur
+3414;   adolescent;n;remaja
+3415;   shine;v;bersinar
+3416;   norm;n;norma
+3417;   upset;v;kecewa
+3418;   remark;n;ucapan
+3419;   resign;v;mengundurkan diri
+3420;   reward;n;penghargaan
+3421;   gentle;j;lemah lembut
+3422;   related;j;terkait
+3423;   organ;n;organ
+3424;   lightly;r;enteng
+3425;   concerning;i;tentang
+3426;   invent;v;menciptakan
+3427;   laughter;n;tawa
+3428;   fit;j;cocok
+3429;   northwest;n;barat laut
+3430;   counseling;n;konseling
+3431;   tight;r;ketat
+3432;   receiver;n;penerima
+3433;   ritual;n;upacara
+3434;   insect;n;serangga
+3435;   interrupt;v;menyela
+3436;   salmon;n;ikan salmon
+3437;   favor;n;kebaikan
+3438;   trading;n;perdagangan
+3439;   concern;v;menyangkut
+3440;   magic;j;sihir
+3441;   superior;j;unggul
+3442;   combat;n;pertempuran
+3443;   stem;n;batang
+3444;   surgeon;n;ahli bedah
+3445;   acceptable;j;dapat diterima
+3446;   physics;n;fisika
+3447;   rape;n;pemerkosaan
+3448;   counsel;n;nasihat
+3449;   brush;n;sikat
+3450;   jeans;n;jeans
+3451;   hunt;v;berburu
+3452;   continuous;j;sinambung
+3453;   log;n;kayu gelondongan
+3454;   echo;v;bergema
+3455;   pill;n;pil
+3456;   excited;j;gembira
+3457;   sculpture;n;patung
+3458;   compound;n;senyawa
+3459;   integrate;v;memadukan
+3460;   flour;n;tepung
+3461;   bitter;j;pahit
+3462;   bare;j;telanjang
+3463;   slope;n;lereng
+3464;   rent;v;menyewa
+3465;   presidency;n;kepresidenan
+3466;   serving;n;porsi
+3467;   subtle;j;halus
+3468;   greatly;r;sangat
+3469;   bishop;n;uskup
+3470;   drinking;n;minum
+3471;   delay;v;menunda
+3472;   cry;n;menangis
+3473;   acceptance;n;penerimaan
+3474;   collapse;n;jatuh
+3475;   shop;v;belanja
+3476;   pump;n;pompa
+3477;   candy;n;permen
+3478;   evil;n;kejahatan
+3479;   final;n;terakhir
+3480;   finance;v;mengongkosi
+3481;   pleased;j;senang
+3482;   medal;n;medali
+3483;   beg;v;mengemis
+3484;   sponsor;v;mensponsori
+3485;   ethical;j;etis
+3486;   secondary;j;sekunder
+3487;   slam;v;membanting
+3488;   export;n;ekspor
+3489;   experimental;j;eksperimental
+3490;   melt;v;mencair
+3491;   midnight;n;tengah malam
+3492;   net;j;bersih
+3493;   curve;n;lengkungan
+3494;   integrity;n;integritas
+3495;   entitle;v;memberi judul
+3496;   evident;j;jelas
+3497;   logic;n;logika
+3498;   essence;n;esensi
+3499;   park;v;memarkir
+3500;   exclude;v;mengecualikan
+3501;   harsh;j;keras
+3502;   closet;n;lemari
+3503;   suburban;j;pinggiran kota
+3504;   greet;v;menyambut
+3505;   favor;i;kebaikan
+3506;   interior;n;pedalaman
+3507;   corridor;n;koridor
+3508;   murder;v;membunuh
+3509;   retail;j;eceran
+3510;   pitcher;n;kendi
+3511;   march;v;berbaris
+3512;   snake;n;ular
+3513;   pitch;v;melenggang
+3514;   excuse;v;mengampuni
+3515;   cross;n;penyebrangan
+3516;   weakness;n;kelemahan
+3517;   pig;n;babi
+3518;   cold;n;dingin
+3519;   classical;j;klasik
+3520;   estimated;j;perkiraan
+3521;   t-shirt;n;t-shirt
+3522;   online;r;on line
+3523;   unemployment;n;pengangguran
+3524;   civilization;n;peradaban
+3525;   fold;v;melipat
+3526;   patient;j;sabar
+3527;   pop;n;pop
+3528;   daily;r;tiap hari
+3529;   reverse;v;membalikkan
+3530;   missing;j;hilang
+3531;   correlation;n;korelasi
+3532;   humanity;n;kemanusiaan
+3533;   flash;v;menyala
+3534;   developer;n;pengembang
+3535;   reliable;j;dapat diandalkan
+3536;   excitement;n;kegembiraan
+3537;   beef;n;daging sapi
+3538;   Islam;n;Islam
+3539;   roman;j;roma
+3540;   stretch;n;meregang
+3541;   architecture;n;arsitektur
+3542;   occasional;j;sesekali
+3543;   administrative;j;administratif
+3544;   elbow;n;siku
+3545;   deadly;j;mematikan
+3546;   muslim;n;muslim
+3547;   hispanic;j;hispanik (orang latin)
+3548;   allegation;n;dugaan
+3549;   tip;v;menyentuh
+3550;   confuse;v;membingungkan
+3551;   airplane;n;pesawat terbang
+3552;   monthly;j;bulanan
+3553;   duck;n;bebek
+3554;   dose;n;dosis
+3555;   korean;j;korea
+3556;   plead;v;membela
+3557;   initiate;v;memulai
+3558;   lecture;n;kuliah
+3559;   van;n;mobil van
+3560;   sixth;m;keenam
+3561;   bay;n;teluk
+3562;   mainstream;j;arus utama
+3563;   suburb;n;pinggiran kota
+3564;   sandwich;n;sandwich
+3565;   unlike;j;tidak seperti
+3566;   trunk;n;bagasi
+3567;   rumor;n;isu
+3568;   implementation;n;pelaksanaan
+3569;   swallow;v;menelan
+3570;   motivate;v;memotivasi
+3571;   render;v;manjadikan
+3572;   longtime;j;lama
+3573;   trap;v;menjebak
+3574;   restrict;v;membatasi
+3575;   cloth;n;kain
+3576;   seemingly;r;tampaknya
+3577;   legislative;j;legislatif
+3578;   effectiveness;n;efektivitas
+3579;   enforce;v;melaksanakan
+3580;   lens;n;lensa
+3581;   reach;n;mencapai
+3582;   inspector;n;inspektur
+3583;   lend;v;meminjamkan
+3584;   plain;j;polos
+3585;   fraud;n;penipuan
+3586;   companion;n;teman
+3587;   contend;v;bersaing
+3588;   nail;n;kuku
+3589;   array;n;susunan
+3590;   strict;j;ketat
+3591;   assemble;v;memasang
+3592;   frankly;r;terus terang
+3593;   rat;n;tikus
+3594;   burst;v;ledakan
+3595;   hallway;n;lorong
+3596;   cave;n;gua
+3597;   inevitable;j;tak terelakkan
+3598;   southwest;n;barat daya
+3599;   monster;n;raksasa
+3600;   speed;v;mempercepat
+3601;   protest;v;protes
+3602;   unexpected;j;tidak terduga
+3603;   obstacle;n;hambatan
+3604;   facilitate;v;memudahkan
+3605;   encounter;n;pertemuan
+3606;   rip;v;merobek
+3607;   herb;n;rumput-rumputan
+3608;   overwhelming;j;berlimpah
+3609;   integration;n;penggabungan
+3610;   crystal;n;kristal
+3611;   recession;n;resesi
+3612;   wish;n;kehendak
+3613;   top;v;mencapai
+3614;   written;j;tertulis
+3615;   motive;n;motif
+3616;   label;v;menamai
+3617;   flood;n;banjir
+3618;   pen;n;pena
+3619;   ownership;n;kepemilikan
+3620;   nightmare;n;mimpi buruk
+3621;   notice;n;pemberitahuan
+3622;   inspection;n;pemeriksaan
+3623;   supervisor;n;pengawas
+3624;   consult;v;berkonsultasi
+3625;   arena;n;arena
+3626;   laugh;n;tawa
+3627;   diagnosis;n;diagnosa
+3628;   possession;n;milik
+3629;   forgive;v;memaafkan
+3630;   warm;v;menghangatkan
+3631;   consistently;r;secara konsisten
+3632;   basement;n;ruang bawah tanah
+3633;   project;v;memproyeksikan
+3634;   drift;v;melayang
+3635;   drain;v;menguras
+3636;   last;r;terakhir
+3637;   prosecution;n;penuntutan
+3638;   maximum;j;maksimum
+3639;   announcement;n;pengumuman
+3640;   warrior;n;pejuang
+3641;   prediction;n;ramalan
+3642;   bacteria;n;bakteri
+3643;   questionnaire;n;daftar pertanyaan
+3644;   mud;n;lumpur
+3645;   infrastructure;n;infrastruktur
+3646;   hurry;v;bergegas
+3647;   privilege;n;hak istimewa
+3648;   temple;n;candi
+3649;   medium;j;medium
+3650;   outdoor;j;outdoor
+3651;   suck;v;mengisap
+3652;   and/or;c;dan / atau
+3653;   broadcast;n;siaran
+3654;   re;i;kembali
+3655;   leap;v;melompat
+3656;   random;j;acak
+3657;   past;r;ketika melewati
+3658;   wrist;n;pergelangan tangan
+3659;   curtain;n;tirai
+3660;   monitor;n;monitor
+3661;   pond;n;kolam
+3662;   domain;n;domain
+3663;   guilt;n;kesalahan
+3664;   cattle;n;ternak
+3665;   subject;i;subyek
+3666;   walking;n;jalan-jalan
+3667;   playoff;n;pertandingan ulang
+3668;   minimum;j;minimum
+3669;   fiscal;j;fiskal
+3670;   skirt;n;rok
+3671;   dump;v;membuang
+3672;   hence;r;karenanya
+3673;   database;n;database
+3674;   uncomfortable;j;tidak nyaman
+3675;   aim;n;tujuan
+3676;   execute;v;menjalankan
+3677;   limb;n;dahan
+3678;   ideology;n;ideologi
+3679;   average;v;mencapai rata-rata
+3680;   welcome;j;selamat datang
+3681;   tune;v;menyesuaikan
+3682;   continuing;j;terus berlanjut
+3683;   harm;n;kejahatan
+3684;   railroad;n;jalan kereta api
+3685;   endure;v;menanggung
+3686;   radiation;n;radiasi
+3687;   horn;n;tanduk
+3688;   chronic;j;kronis
+3689;   peaceful;j;tenang
+3690;   innovation;n;inovasi
+3691;   strain;n;ketegangan
+3692;   guitar;n;gitar
+3693;   replacement;n;penggantian
+3694;   behave;v;bertingkah
+3695;   administer;v;mengelola
+3696;   simultaneously;r;serentak
+3697;   dancer;n;penari
+3698;   amendment;n;perubahan
+3699;   guard;v;menjaga
+3700;   pad;n;bantalan
+3701;   transmission;n;transmisi
+3702;   await;v;menunggu
+3703;   retired;j;pensiunan
+3704;   trigger;v;mencetuskan
+3705;   spill;v;menumpahkan
+3706;   grateful;j;berterimakasih
+3707;   grace;n;rahmat
+3708;   virtual;j;virtual
+3709;   response;i;tanggapan
+3710;   colony;n;koloni
+3711;   adoption;n;adopsi
+3712;   slide;n;meluncur
+3713;   indigenous;j;asli
+3714;   closed;j;tutup
+3715;   convict;v;menghukum
+3716;   civilian;n;sipil
+3717;   towel;n;handuk
+3718;   modify;v;memodifikasi
+3719;   particle;n;partikel
+3720;   award;v;menghadiahkan
+3721;   glance;n;pandangan sekilas
+3722;   prize;n;hadiah
+3723;   landing;n;pendaratan
+3724;   conduct;n;kelakuan
+3725;   blue;n;biru
+3726;   boost;v;mendorong
+3727;   bat;n;kelelawar
+3728;   alarm;n;alarm
+3729;   festival;n;festival
+3730;   grip;n;pegangan
+3731;   weird;j;aneh
+3732;   undermine;v;merusak
+3733;   freshman;n;mahasiswa baru
+3734;   sweat;n;keringat
+3735;   outer;j;luar
+3736;   european;n;eropa
+3737;   drunk;j;mabuk
+3738;   survey;v;meninjau
+3739;   research;v;meneliti
+3740;   separation;n;pemisahan
+3741;   traditionally;r;secara tradisional
+3742;   stuff;v;menjejali
+3743;   govern;v;memerintah
+3744;   southeast;n;tenggara
+3745;   intelligent;j;cerdas
+3746;   wherever;r;di manapun
+3747;   ballot;n;kartu pemungutan suara
+3748;   rhetoric;n;retorik
+3749;   convinced;j;yakin
+3750;   driving;j;penggerak
+3751;   vitamin;n;vitamin
+3752;   enthusiasm;n;antusiasme
+3753;   accommodate;v;menampung
+3754;   praise;v;memuji
+3755;   injure;v;melukai
+3756;   wilderness;n;hutan belantara
+3757;   nearby;r;dekat dengan
+3758;   endless;j;tak berujung
+3759;   mandate;n;mandat
+3760;   pause;n;berhenti sebentar
+3761;   excuse;n;alasan
+3762;   respectively;r;masing-masing
+3763;   uncertainty;n;ketidakpastian
+3764;   chaos;n;kekacauan
+3765;   short;r;secara singkat
+3766;   mechanical;j;mekanis
+3767;   canvas;n;kanvas
+3768;   forty;m;empat puluh
+3769;   matter;d;masalah
+3770;   lobby;n;lobi
+3771;   profound;j;mendalam
+3772;   format;n;bentuk
+3773;   trait;n;sifat
+3774;   currency;n;mata uang
+3775;   turkey;n;kalkun
+3776;   reserve;n;cadangan
+3777;   beam;n;balok
+3778;   abuse;v;menyalahgunakan
+3779;   astronomer;n;ahli astronomi
+3780;   corruption;n;korupsi
+3781;   contractor;n;kontraktor
+3782;   apologize;v;minta maaf
+3783;   doctrine;n;ajaran
+3784;   genuine;j;asli
+3785;   thumb;n;ibu jari
+3786;   unity;n;kesatuan
+3787;   compromise;n;kompromi
+3788;   horrible;j;mengerikan
+3789;   behavioral;j;perilaku
+3790;   exclusive;j;eksklusif
+3791;   scatter;v;menyebarkan
+3792;   commonly;r;biasanya
+3793;   convey;v;menyampaikan
+3794;   rush;n;buru-buru
+3795;   twist;v;memutar
+3796;   complexity;n;kompleksitas
+3797;   fork;n;garpu
+3798;   disk;n;cakram
+3799;   relieve;v;meringankan
+3800;   suspicion;n;kecurigaan
+3801;   lock;n;kunci
+3802;   finish;n;akhir
+3803;   residence;n;tempat tinggal
+3804;   shame;n;rasa malu
+3805;   meaningful;j;berarti
+3806;   sidewalk;n;trotoar
+3807;   olympics;n;olimpiade
+3808;   technological;j;teknologi
+3809;   signature;n;tanda tangan
+3810;   pleasant;j;nyaman
+3811;   wow;u;waw
+3812;   suspend;v;menangguhkan
+3813;   rebel;n;pemberontak
+3814;   frozen;j;beku
+3815;   desire;v;berhasrat
+3816;   spouse;n;pasangan
+3817;   fluid;n;cairan
+3818;   pension;n;pensiun
+3819;   resume;v;mendapatkan kembali
+3820;   theoretical;j;teoretis
+3821;   sodium;n;sodium
+3822;   blow;n;pukulan
+3823;   promotion;n;promosi
+3824;   delicate;j;halus
+3825;   forehead;n;dahi
+3826;   rebuild;v;membangun kembali
+3827;   bounce;v;melambung
+3828;   electrical;j;listrik
+3829;   hook;n;kait
+3830;   detective;n;detektif
+3831;   traveler;n;wisatawan
+3832;   click;v;berbunyi klik
+3833;   compensation;n;kompensasi
+3834;   signal;v;memberi isyarat
+3835;   exit;n;jalan keluar
+3836;   attraction;n;daya tarik
+3837;   dedicate;v;mempersembahkan
+3838;   altogether;r;sama sekali
+3839;   pickup;n;menjemput
+3840;   carve;v;mengukir
+3841;   needle;n;jarum
+3842;   belly;n;perut
+3843;   ship;v;mengkapalkan
+3844;   scare;v;ketakutan
+3845;   portfolio;n;portofolio
+3846;   shuttle;n;peti
+3847;   invisible;j;tak terlihat
+3848;   timing;n;pemilihan waktu
+3849;   engagement;n;pertunangan
+3850;   ankle;n;pergelangan kaki
+3851;   transaction;n;transaksi
+3852;   rescue;v;menyelamatkan
+3853;   counterpart;n;mitra
+3854;   historically;r;historis
+3855;   firmly;r;dengan tegas
+3856;   mild;j;ringan
+3857;   rider;n;pengendara
+3858;   doll;n;boneka
+3859;   noon;n;tengah hari
+3860;   exhibit;n;pameran
+3861;   amid;i;di tengah
+3862;   identical;j;identik
+3863;   precise;j;tepat
+3864;   anxious;j;gelisah
+3865;   structural;j;struktural
+3866;   residential;j;perumahan
+3867;   loud;r;dengan lantang
+3868;   diagnose;v;mendiagnosa
+3869;   carbohydrate;n;karbohidrat
+3870;   liberty;n;kebebasan
+3871;   poster;n;poster
+3872;   theology;n;teologi
+3873;   nonprofit;j;nirlaba
+3874;   crawl;v;merangkak
+3875;   oxygen;n;oksigen
+3876;   handsome;j;tampan
+3877;   magic;n;sihir
+3878;   sum;n;jumlah
+3879;   provided;c;asalkan
+3880;   businessman;n;pengusaha
+3881;   promising;j;menjanjikan
+3882;   conscious;j;sadar
+3883;   determination;n;penentuan
+3884;   donor;n;penyumbang
+3885;   hers;p;miliknya (perempuan)
+3886;   pastor;n;pastor
+3887;   jazz;n;jazz
+3888;   opera;n;opera
+3889;   japanese;n;bahasa/orang jepang
+3890;   bite;n;gigitan
+3891;   frame;v;membingkai
+3892;   evil;j;jahat
+3893;   acquisition;n;perolehan
+3894;   pit;n;lubang
+3895;   hug;v;memeluk
+3896;   wildlife;n;margasatwa
+3897;   punish;v;menghukum
+3898;   giant;n;raksasa
+3899;   primary;n;utama
+3900;   equity;n;kesetaraan
+3901;   wrong;r;salah
+3902;   doorway;n;pintu keluar masuk
+3903;   departure;n;keberangkatan
+3904;   elevator;n;tangga berjalan
+3905;   teenage;j;remaja
+3906;   guidance;n;bimbingan
+3907;   happiness;n;kebahagiaan
+3908;   statue;n;patung
+3909;   pursuit;n;pengejaran
+3910;   repair;n;perbaikan
+3911;   decent;j;layak
+3912;   gym;n;ruang olahraga
+3913;   oral;j;lisan
+3914;   clerk;n;juru tulis
+3915;   israeli;n;orang israel
+3916;   envelope;n;amplop
+3917;   reporting;n;pelaporan
+3918;   destination;n;tujuan
+3919;   fist;n;kepalan tangan
+3920;   endorse;v;menyokong
+3921;   exploration;n;eksplorasi
+3922;   generous;j;murah hati
+3923;   bath;n;bak mandi
+3924;   rescue;n;penyelamatan
+3925;   thereby;r;dengan demikian
+3926;   overall;r;secara keseluruhan
+3927;   indicator;n;indikator
+3928;   sunlight;n;sinar matahari
+3929;   feedback;n;umpan balik
+3930;   spectrum;n;spektrum
+3931;   purple;j;ungu
+3932;   laser;n;laser
+3933;   bold;j;berani
+3934;   reluctant;j;enggan
+3935;   starting;n;permulaan
+3936;   expertise;n;keahlian
+3937;   practically;r;praktis
+3938;   program;v;menyusun rencana
+3939;   picture;v;menggambar
+3940;   tune;n;lagu
+3941;   eating;n;makan
+3942;   age;v;menua
+3943;   volunteer;v;bersuka rela
+3944;   hint;n;petunjuk
+3945;   sharply;r;dengan menyolok
+3946;   parade;n;parade
+3947;   advocate;v;menganjurkan
+3948;   realm;n;alam
+3949;   ban;n;larangan
+3950;   strip;v;mengupas
+3951;   cancel;v;membatalkan
+3952;   blend;v;mencampur
+3953;   therapist;n;dokter
+3954;   slice;v;mengiris
+3955;   peel;v;menglupas
+3956;   pizza;n;pizza
+3957;   recipient;n;penerima
+3958;   hesitate;v;ragu
+3959;   flip;v;membalik
+3960;   accounting;n;akuntansi
+3961;   debate;v;berdebat
+3962;   bias;n;prasangka
+3963;   huh;u;Hah
+3964;   metaphor;n;metafora
+3965;   candle;n;lilin
+3966;   handle;n;penanganan
+3967;   worry;n;rasa khawatir
+3968;   judicial;j;bijaksana
+3969;   entity;n;wujud
+3970;   suffering;n;penderitaan
+3971;   full-time;j;waktu penuh
+3972;   feel;n;perasaan
+3973;   lamp;n;lampu
+3974;   garbage;n;sampah
+3975;   servant;n;pelayan
+3976;   addition;n;tambahan
+3977;   regulatory;j;peraturan
+3978;   diplomatic;j;diplomatik
+3979;   elegant;j;anggun
+3980;   inside;n;bagian dalam
+3981;   reception;n;penerimaan
+3982;   vanish;v;lenyap
+3983;   automatically;r;secara otomatis
+3984;   chin;n;dagu
+3985;   trail;v;membuntuti
+3986;   necessity;n;kebutuhan
+3987;   confess;v;mengaku
+3988;   racism;n;rasisme
+3989;   starter;n;starter
+3990;   interior;j;bagian dalam
+3991;   banking;n;perbankan
+3992;   casual;j;santai
+3993;   gravity;n;gravitasi
+3994;   enroll;v;mendaftar
+3995;   diminish;v;mengurangi
+3996;   prevention;n;pencegahan
+3997;   arab;n;arab
+3998;   value;v;menghargai
+3999;   minimize;v;memperkecil
+4000;   chop;v;memotong
+4001;   performer;n;penampil
+4002;   intent;n;maksud
+4003;   isolate;v;memisahkan
+4004;   pump;v;memompa
+4005;   inventory;n;inventaris
+4006;   productive;j;produktif
+4007;   assembly;n;pemasangan
+4008;   civic;j;bersifat kewarganegaraan
+4009;   silk;n;sutra
+4010;   magnitude;n;besarnya
+4011;   steep;j;curam
+4012;   hostage;n;sandera
+4013;   collector;n;pengumpul
+4014;   popularity;n;kepopuleran
+4015;   kiss;n;ciuman
+4016;   alien;n;asing
+4017;   dynamic;j;dinamis
+4018;   scary;j;mengerikan
+4019;   equation;n;persamaan
+4020;   angel;n;malaikat
+4021;   switch;n;saklar
+4022;   offering;n;tawaran
+4023;   rage;n;kemarahan
+4024;   photography;n;fotografi
+4025;   repair;v;memperbaiki
+4026;   toilet;n;toilet
+4027;   disappointed;j;kecewa
+4028;   precious;j;berharga
+4029;   prohibit;v;melarang
+4030;   representative;j;wakil
+4031;   content;j;konten
+4032;   realistic;j;realistis
+4033;   russian;n;orang rusia
+4034;   hidden;j;tersembunyi
+4035;   command;v;memerintahkan
+4036;   tender;j;lembut
+4037;   wake;n;bangun
+4038;   gathering;n;pertemuan
+4039;   outstanding;j;luar biasa
+4040;   stumble;v;tersandung
+4041;   lonely;j;kesepian
+4042;   automobile;n;mobil
+4043;   artificial;j;buatan
+4044;   dawn;n;fajar
+4045;   abstract;j;abstrak
+4046;   descend;v;turun
+4047;   silly;j;bodoh
+4048;   hook;v;mengkaitkan
+4049;   tide;n;air pasang
+4050;   shared;j;berbagi
+4051;   hopefully;r;semoga
+4052;   readily;r;segera
+4053;   cooperate;v;bekerja sama
+4054;   revolutionary;j;revolusioner
+4055;   romance;n;percintaan
+4056;   hardware;n;perangkat keras
+4057;   pillow;n;bantal
+4058;   kit;n;kotak
+4059;   cook;n;koki
+4060;   spread;n;penyebaran
+4061;   continent;n;benua
+4062;   seal;v;menyegel
+4063;   circuit;n;sirkuit
+4064;   sink;n;wastafel
+4065;   ruling;n;berkuasa
+4066;   shortage;n;kekurangan
+4067;   annually;r;setiap tahun
+4068;   lately;r;belakangan ini
+4069;   trap;n;perangkap
+4070;   scan;v;megamati
+4071;   fool;n;orang bodoh
+4072;   deadline;n;batas waktu
+4073;   rear;j;belakang
+4074;   processing;n;pengolahan
+4075;   ranch;n;peternakan
+4076;   coastal;j;berhubungan dgn pesisir
+4077;   undertake;v;melakukan
+4078;   softly;r;dengan lembut
+4079;   reserve;v;memesan
+4080;   burning;j;panas
+4081;   verbal;j;lisan
+4082;   tribal;j;kesukuan
+4083;   ridiculous;j;konyol
+4084;   automatic;j;otomatis
+4085;   diamond;n;berlian
+4086;   credibility;n;kredibilitas
+4087;   import;n;impor
+4088;   sexually;r;secara seksual
+4089;   spring;v;muncul
+4090;   way;r;jauh
+4091;   divine;j;bersifat ketuhanan
+4092;   sentiment;n;sentimen
+4093;   cart;n;gerobak
+4094;   oversee;v;mengawasi
+4095;   stem;v;membendung
+4096;   elder;n;ketua
+4097;   pro;n;pro
+4098;   inspiration;n;inspirasi
+4099;   dutch;j;belanda
+4100;   quantity;n;kuantitas
+4101;   trailer;n;karavan
+4102;   mate;n;pasangan
+4103;   o'clock;r;tepat jam
+4104;   greek;j;yunani
+4105;   genius;n;jenius
+4106;   monument;n;monumen
+4107;   bid;n;taruhan
+4108;   quest;n;pencarian
+4109;   sacrifice;n;pengorbanan
+4110;   invitation;n;undangan
+4111;   accuracy;n;ketepatan
+4112;   juror;n;anggota juri
+4113;   officially;r;secara resmi
+4114;   broker;n;makelar
+4115;   treasure;n;harta
+4116;   loyalty;n;loyalitas
+4117;   credit;v;berhutang budi
+4118;   shock;v;mengguncang
+4119;   talented;j;berbakat
+4120;   gasoline;n;bensin
+4121;   stiff;j;kaku
+4122;   output;n;keluaran
+4123;   nominee;n;calon
+4124;   extended;j;yang diperpanjang
+4125;   please;v;menyenangkan
+4126;   diabetes;n;diabetes
+4127;   slap;v;menampar
+4128;   toxic;j;racun
+4129;   alleged;j;yang diduga kuat
+4130;   jaw;n;rahang
+4131;   grief;n;kesedihan
+4132;   mysterious;j;gaib
+4133;   rocket;n;roket
+4134;   donate;v;menyumbangkan
+4135;   inmate;n;tahanan
+4136;   tackle;v;mengatasi
+4137;   dynamics;n;dinamika
+4138;   bow;n;busur
+4139;   ours;p;milik kita
+4140;   senior;n;senior
+4141;   dignity;n;martabat
+4142;   carpet;n;karpet
+4143;   parental;j;orang tua
+4144;   bubble;n;gelembung
+4145;   heat;v;memanaskan
+4146;   buddy;n;sobat
+4147;   barn;n;lumbung
+4148;   sword;n;pedang
+4149;   flash;n;kilat
+4150;   seventh;m;ketujuh
+4151;   glory;n;kejayaan
+4152;   tightly;r;dengan rapat/kencang
+4153;   protective;j;bersifat melindungi
+4154;   tuck;v;menyelipkan
+4155;   drum;n;drum
+4156;   faint;j;lemah
+4157;   post;v;mengumumkan
+4158;   queen;n;ratu
+4159;   dilemma;n;dilema
+4160;   input;n;masukan
+4161;   specialize;v;mengkhususkan
+4162;   northeast;n;timur laut
+4163;   shallow;j;dangkal
+4164;   liability;n;ketidakbebasan
+4165;   sail;v;berlayar
+4166;   merchant;n;pedagang
+4167;   stadium;n;stadion
+4168;   improved;j;yang meningkat hasilnya
+4169;   bloody;j;berdarah
+4170;   defeat;n;kekalahan
+4171;   associated;j;terkait
+4172;   withdrawal;n;penarikan
+4173;   refrigerator;n;kulkas
+4174;   nest;n;sarang
+4175;   near;j;dekat
+4176;   thoroughly;r;sepenuhnya
+4177;   lane;n;jalan kecil
+4178;   ancestor;n;leluhur
+4179;   condemn;v;mengutuk
+4180;   steam;n;uap
+4181;   accent;n;aksen
+4182;   escape;n;pelarian
+4183;   optimistic;j;optimis
+4184;   unite;v;bersatu
+4185;   cage;n;kandang
+4186;   equip;v;melengkapi
+4187;   shrimp;n;udang
+4188;   homeland;n;tanah air
+4189;   exchange;v;bertukar
+4190;   rack;n;rak
+4191;   costume;n;kostum
+4192;   wolf;n;serigala
+4193;   courtroom;n;ruang sidang
+4194;   statute;n;undang-undang
+4195;   cartoon;n;kartun
+4196;   besides;i;selain
+4197;   productivity;n;produktifitas
+4198;   grin;v;menyeringai
+4199;   symbolic;j;simbolis
+4200;   seal;n;segel
+4201;   bug;n;bug
+4202;   bless;v;memberkati
+4203;   aunt;n;bibi
+4204;   agriculture;n;pertanian
+4205;   rock;v;bergoyang
+4206;   hostile;j;bermusuhan
+4207;   root;v;membasmi
+4208;   conceive;v;memahami
+4209;   combined;j;gabungan
+4210;   instantly;r;segera
+4211;   bankruptcy;n;kebangkrutan
+4212;   vaccine;n;vaksin
+4213;   bonus;n;bonus
+4214;   collaboration;n;kolaborasi
+4215;   mixed;j;campur aduk
+4216;   opposed;i;bersebrangan
+4217;   orbit;n;orbit
+4218;   grasp;v;memahami
+4219;   patience;n;kesabaran
+4220;   spite;i;dendam
+4221;   tropical;j;tropis
+4222;   voting;n;pemungutan suara
+4223;   patrol;n;patroli
+4224;   willingness;n;kerelaan
+4225;   position;v;menempatkan
+4226;   revelation;n;wahyu
+4227;   rent;n;uang sewa
+4228;   calm;v;menenangkan
+4229;   jewelry;n;perhiasan
+4230;   cuban;j;kuba
+4231;   haul;v;mengangkut
+4232;   concede;v;mengakui
+4233;   trace;n;jejak
+4234;   wagon;n;gerobak
+4235;   afterward;r;kemudian
+4236;   spectacular;j;spektakuler
+4237;   ruin;v;merusak
+4238;   sheer;j;belaka
+4239;   prior;j;sebelumnya
+4240;   immune;j;imun
+4241;   reliability;n;kehandalan
+4242;   ass;n;pantat
+4243;   alongside;i;di samping
+4244;   bush;n;semak
+4245;   exotic;j;eksotik
+4246;   fascinating;j;menarik
+4247;   secure;j;aman
+4248;   clip;n;klip
+4249;   thigh;n;paha
+4250;   bull;n;banteng
+4251;   drawer;n;laci
+4252;   regard;i;menganggap
+4253;   sheep;n;domba
+4254;   discourage;v;mengecilkan hati
+4255;   coordinator;n;koordinator
+4256;   ideological;j;ideologis
+4257;   runner;n;pelari
+4258;   secular;j;sekuler
+4259;   intimate;j;intim
+4260;   empire;n;kekaisaran
+4261;   cab;n;taksi
+4262;   divorce;v;bercerai
+4263;   exam;n;ujian
+4264;   documentary;n;dokumenter
+4265;   neutral;j;netral
+4266;   biology;n;biologi
+4267;   flexible;j;fleksibel
+4268;   progressive;j;progresif
+4269;   web;n;web
+4270;   conspiracy;n;konspirasi
+4271;   catch;n;tangkapan
+4272;   casualty;n;korban
+4273;   republic;n;republik
+4274;   execution;n;eksekusi
+4275;   terrific;j;luar biasa
+4276;   whale;n;ikan paus
+4277;   functional;j;fungsional
+4278;   star;v;membintangi
+4279;   draft;v;mengkonsep
+4280;   instinct;n;naluri
+4281;   teammate;n;rekan satu tim
+4282;   aluminum;n;aluminium
+4283;   whoever;p;siapapun
+4284;   ministry;n;kementerian
+4285;   verdict;n;putusan
+4286;   instruct;v;menginstruksikan
+4287;   skull;n;tengkorak
+4288;   self-esteem;n;penghargaan diri sendiri
+4289;   ease;n;kenyamanan
+4290;   cooperative;j;mau bekerja sama
+4291;   manipulate;v;memanipulasi
+4292;   bee;n;lebah
+4293;   practitioner;n;praktisi
+4294;   loop;n;putaran
+4295;   edit;v;meredaksi
+4296;   whip;v;mencambuk
+4297;   puzzle;n;teka teki
+4298;   mushroom;n;jamur
+4299;   subsidy;n;subsidi
+4300;   boil;v;mendidih
+4301;   tragic;j;tragis
+4302;   mathematics;n;matematika
+4303;   mechanic;n;montir
+4304;   jar;n;kendi
+4305;   respect;i;menghormati
+4306;   earthquake;n;gempa bumi
+4307;   pork;n;babi
+4308;   creativity;n;kreativitas
+4309;   safely;r;dengan aman
+4310;   underlying;j;mendasari
+4311;   dessert;n;pencuci mulut
+4312;   sympathy;n;simpati
+4313;   fisherman;n;nelayan
+4314;   incredibly;r;luar biasa
+4315;   isolation;n;pemisahan
+4316;   sock;n;kaus kaki
+4317;   near;r;dekat
+4318;   jump;n;lompatan
+4319;   eleven;m;sebelas
+4320;   sexy;j;seksi
+4321;   entrepreneur;n;pengusaha
+4322;   syndrome;n;sindroma
+4323;   bureau;n;biro
+4324;   seat;v;mendudukkan
+4325;   workplace;n;tempat kerja
+4326;   ambition;n;ambisi
+4327;   touchdown;n;pendaratan
+4328;   utilize;v;memanfaatkan
+4329;   breeze;n;angin sepoi-sepoi
+4330;   costly;j;mahal
+4331;   ambitious;j;ambisius
+4332;   christianity;n;kekristenan
+4333;   presumably;r;agaknya
+4334;   influential;j;berpengaruh
+4335;   translation;n;terjemahan
+4336;   uncertain;j;tidak pasti
+4337;   dissolve;v;larut
+4338;   object;v;berkeberatan
+4339;   statistical;j;statistik
+4340;   gut;n;usus
+4341;   metropolitan;j;metropolitan
+4342;   rolling;j;bergulir
+4343;   aesthetic;j;estetis
+4344;   spell;v;mengeja
+4345;   insert;v;memasukkan
+4346;   booth;n;stan
+4347;   helmet;n;helm
+4348;   waist;n;pinggang
+4349;   expected;j;diharapkan
+4350;   lion;n;singa
+4351;   accomplishment;n;pencapaian
+4352;   royal;j;kerajaan
+4353;   panic;n;panik
+4354;   cast;n;cetakan
+4355;   crush;v;menghancurkan
+4356;   actively;r;dengan aktif
+4357;   cliff;n;jurang
+4358;   minimal;j;minimal
+4359;   cord;n;tali
+4360;   fortunately;r;untunglah
+4361;   cocaine;n;kokain
+4362;   illusion;n;ilusi
+4363;   anonymous;j;anonim
+4364;   tolerate;v;mentolerir
+4365;   appreciation;n;apresiasi
+4366;   commissioner;n;komisaris
+4367;   harm;v;membahayakan
+4368;   flexibility;n;fleksibilitas
+4369;   instructional;j;instruksional
+4370;   scramble;v;berebut
+4371;   casino;n;kasino
+4372;   tumor;n;tumor
+4373;   decorate;v;menghias
+4374;   sort;v;menyortir
+4375;   charge;i;biaya
+4376;   pulse;n;nadi
+4377;   equivalent;n;setara
+4378;   fixed;j;tetap
+4379;   experienced;j;berpengalaman
+4380;   donation;n;sumbangan
+4381;   diary;n;buku harian
+4382;   sibling;n;saudara kandung
+4383;   irony;n;ironi
+4384;   spoon;n;sendok
+4385;   midst;n;tengah
+4386;   alley;n;gang
+4387;   upset;j;kecewa
+4388;   interact;v;berinteraksi
+4389;   soap;n;sabun mandi
+4390;   cute;j;imut
+4391;   rival;n;saingan
+4392;   short-term;j;jangka pendek
+4393;   punch;v;meninju
+4394;   pin;n;pin
+4395;   hockey;n;olahraga hoki
+4396;   passing;j;lewat
+4397;   persist;v;bertahan
+4398;   supplier;n;pemasok
+4399;   known;j;dikenal
+4400;   momentum;n;momentum
+4401;   purse;n;tas
+4402;   shed;v;menumpahkan
+4403;   liquid;n;cair
+4404;   icon;n;ikon
+4405;   elephant;n;gajah
+4406;   consequently;r;alhasil
+4407;   legislature;n;badan legislatif
+4408;   associate;n;rekan
+4409;   franchise;n;waralaba
+4410;   correctly;r;dengan benar
+4411;   mentally;r;secara mental
+4412;   foster;v;membantu perkembangan
+4413;   bicycle;n;sepeda
+4414;   encouraging;j;mendorong
+4415;   cheat;v;curang
+4416;   access;v;mengakses
+4417;   heal;v;menyembuhkan
+4418;   fever;n;demam
+4419;   filter;n;penyaring
+4420;   rabbit;n;kelinci
+4421;   coin;n;koin
+4422;   exploit;v;mengeksploitasi
+4423;   accessible;j;dapat diakses
+4424;   organism;n;organisme
+4425;   sensation;n;sensasi
+4426;   partially;r;sebagian
+4427;   stay;n;tinggal
+4428;   upstairs;r;di atas
+4429;   dried;j;kering
+4430;   minimum;n;minimum
+4431;   pro;j;pro
+4432;   conservation;n;konservasi
+4433;   shove;v;mendorong
+4434;   backyard;n;halaman belakang
+4435;   charter;n;piagam
+4436;   stove;n;kompor
+4437;   consent;n;persetujuan
+4438;   comprise;v;meliputi
+4439;   reminder;n;peringatan
+4440;   alike;r;serupa
+4441;   placement;n;penempatan
+4442;   dough;n;adonan
+4443;   grandchild;n;cucu
+4444;   dam;n;bendungan
+4445;   reportedly;r;kabarnya
+4446;   well-known;j;terkenal
+4447;   surrounding;j;sekitarnya
+4448;   ecological;j;ekologis
+4449;   outfit;n;pakaian
+4450;   unprecedented;j;blm prnh terjadi sebelumnya
+4451;   columnist;n;kolumnis
+4452;   workout;n;latihan
+4453;   preliminary;j;pendahuluan
+4454;   patent;n;paten
+4455;   shy;j;malu
+4456;   quote;n;kutipan
+4457;   trash;n;sampah
+4458;   disabled;j;cacat
+4459;   gross;j;kotor
+4460;   damn;j;mengutuk
+4461;   hormone;n;hormon
+4462;   texture;n;tekstur
+4463;   counter;v;melawan
+4464;   pencil;n;pensil
+4465;   associate;j;rekan
+4466;   frontier;n;perbatasan
+4467;   spray;n;semprotan
+4468;   bet;n;taruhan
+4469;   disclose;v;membuka
+4470;   custody;n;tahanan
+4471;   banker;n;bankir
+4472;   beast;n;binatang buas
+4473;   interfere;v;mengganggu
+4474;   oak;n;ek
+4475;   case;c;hal
+4476;   eighth;m;kedelapan
+4477;   notebook;n;buku catatan
+4478;   outline;v;menguraikan
+4479;   gaze;v;menatap
+4480;   attendance;n;kehadiran
+4481;   speculation;n;spekulasi
+4482;   uncover;v;menemukan
+4483;   behalf;i;kepentingan
+4484;   innovative;j;inovatif
+4485;   shark;n;hiu
+4486;   reward;v;menghargai
+4487;   mill;n;pabrik penggilingan
+4488;   installation;n;instalasi
+4489;   stimulate;v;merangsang
+4490;   tag;n;label
+4491;   vertical;j;vertikal
+4492;   swimming;n;renang
+4493;   fleet;n;armada kapal
+4494;   catalog;n;katalog
+4495;   outsider;n;orang luar
+4496;   sacrifice;v;berkorban
+4497;   desperately;r;dengan putus asa
+4498;   stance;n;pendirian
+4499;   compel;v;memaksa
+4500;   sensitivity;n;kepekaan
+4501;   someday;r;suatu hari nanti
+4502;   instant;j;instan
+4503;   debut;n;debut
+4504;   proclaim;v;menyatakan
+4505;   worldwide;r;di seluruh dunia
+4506;   hike;v;berjalan kaki
+4507;   required;j;wajib
+4508;   confrontation;n;konfrontasi
+4509;   colorful;j;penuh warna
+4510;   ideal;n;ideal
+4511;   constitution;n;konstitusi
+4512;   trainer;n;pelatih
+4513;  thanksgiving;n;thanksgiving
+4514;   scent;n;pengharum
+4515;   stack;n;tumpukan
+4516;   eyebrow;n;alis
+4517;   sack;n;karung
+4518;   cease;v;berhenti
+4519;   inherit;v;mewarisi
+4520;   tray;n;baki
+4521;   pioneer;n;pelopor
+4522;   organizational;j;organisasi
+4523;   textbook;n;buku pelajaran
+4524;   uh;u;eh
+4525;   nasty;j;menjijikan
+4526;   shrink;v;menyusut
+4527;   model;v;mencontoh
+4528;   emerging;j;muncul
+4529;   dot;n;titik
+4530;   wheat;n;gandum
+4531;   fierce;j;sengit
+4532;   envision;v;membayangkan
+4533;   rational;j;rasional
+4534;   kingdom;n;kerajaan
+4535;   aisle;n;lorong
+4536;   weaken;v;melemahkan
+4537;   protocol;n;protokol
+4538;   exclusively;r;secara khusus
+4539;   vocal;j;vokal
+4540;   marketplace;n;pasar
+4541;   openly;r;secara terbuka
+4542;   unfair;j;tidak adil
+4543;   terrain;n;medan
+4544;   deploy;v;menyebarkan
+4545;   risky;j;berisiko
+4546;   pasta;n;semacam spageti
+4547;   genre;n;aliran
+4548;   distract;v;mengalihkan
+4549;   merit;n;pantas
+4550;   planner;n;perencana
+4551;   depressed;j;murung
+4552;   chunk;n;bingkah
+4553;   closest;j;paling dekat
+4554;   discount;n;diskon
+4555;   no;d;tidak
+4556;   ladder;n;tangga
+4557;   jungle;n;rimba
+4558;   migration;n;migrasi
+4559;   breathing;n;pernafasan
+4560;   invade;v;menyerbu
+4561;   hurricane;n;badai
+4562;   retailer;n;pengecer
+4563;   classify;v;menggolongkan
+4564;   wound;v;melukai
+4565;   coup;n;tindakan yg tiba-tiba
+4566;   aid;v;membantu
+4567;   ambassador;n;duta besar
+4568;   density;n;massa jenis
+4569;   supportive;j;bersifat mendukung
+4570;   curiosity;n;rasa ingin tahu
+4571;   skip;v;melewatkan
+4572;   aggression;n;agresi
+4573;   stimulus;n;rangsangan
+4574;   journalism;n;jurnalistik
+4575;   robot;n;robot
+4576;   flood;v;membanjiri
+4577;   dip;v;menukik
+4578;   likewise;r;demikian juga
+4579;   informal;j;informal
+4580;   persian;j;persia
+4581;   feather;n;bulu
+4582;   sphere;n;bola
+4583;   tighten;v;mengencangkan
+4584;   boast;v;membanggakan
+4585;   pat;v;menepuk
+4586;   perceived;j;dirasakan
+4587;   sole;j;tunggal
+4588;   publicity;n;publisitas
+4589;   major;n;utama
+4590;   unfold;v;membentangkan
+4591;   joke;v;bercanda
+4592;   well-being;n;kesejahteraan
+4593;   validity;n;keabsahan
+4594;   ecosystem;n;ekosistem
+4595;   strictly;r;dengan ketat
+4596;   partial;j;sebagian
+4597;   collar;n;kerah
+4598;   weed;n;rumput liar
+4599;   compliance;n;pemenuhan
+4600;   streak;n;garis
+4601;   supposedly;r;seharusnya
+4602;   added;j;menambahkan
+4603;   builder;n;pembangun
+4604;   glimpse;n;melihat sekilas
+4605;   premise;n;dasar pikiran
+4606;   specialty;n;khusus
+4607;   deem;v;menganggap
+4608;   artifact;n;artefak
+4609;   sneak;v;menyelinap
+4610;   monkey;n;monyet
+4611;   mentor;n;mentor
+4612;   two-thirds;m;dua pertiga
+4613;   listener;n;pendengar
+4614;   lightning;n;petir
+4615;   legally;r;secara sah
+4616;   sleeve;n;lengan
+4617;   disappointment;n;kekecewaan
+4618;   disturb;v;mengganggu
+4619;   rib;n;tulang rusuk
+4620;   excessive;j;berlebihan
+4621;   high-tech;j;teknologi tinggi
+4622;   debris;n;puing
+4623;   pile;v;menumpuk
+4624;   rod;n;tongkat
+4625;   logical;j;logis
+4626;   liberal;n;liberal
+4627;   ash;n;abu
+4628;   socially;r;secara sosial
+4629;   parish;n;jemaah gereja
+4630;   slavery;n;perbudakan
+4631;   blank;j;kosong
+4632;   commodity;n;komoditi
+4633;   cure;n;penyembuhan
+4634;   mineral;n;mineral
+4635;   hunger;n;kelaparan
+4636;   dying;j;sekarat
+4637;   developmental;j;pembangunan
+4638;   faster;j;lebih cepat
+4639;   spare;v;meluangkan
+4640;   halfway;r;setengah jalan
+4641;   cure;v;menyembuhkan
+4642;   equality;n;persamaan
+4643;   cemetery;n;kuburan
+4644;   harassment;n;gangguan
+4645;   deliberately;r;dengan sengaja
+4646;   fame;n;ketenaran
+4647;   regret;v;menyesali
+4648;   striking;j;menyolok
+4649;   likelihood;n;kemungkinan
+4650;   carrot;n;wortel
+4651;   atop;i;di atas
+4652;   toll;n;korban
+4653;   rim;n;pinggiran
+4654;   embarrassed;j;malu
+4655;   fucking;j;sial
+4656;   cling;v;melekat
+4657;   isolated;j;terpencil
+4658;   blink;v;berkedip
+4659;   suspicious;j;mencurigakan
+4660;   wheelchair;n;kursi roda
+4661;   squad;n;pasukan
+4662;   eligible;j;berhak
+4663;   processor;n;prosesor
+4664;   plunge;v;terjun
+4665;   this;r;ini
+4666;   sponsor;n;sponsor
+4667;   grin;n;menyeringai
+4668;   color;v;mewarnai
+4669;   demographic;j;demografis
+4670;   rain;v;menghujani
+4671;   chill;n;udara dingin
+4672;   refuge;n;pengungsian
+4673;   steer;v;mengemudikan
+4674;   legislator;n;legislator
+4675;   rally;n;rapat umum
+4676;   programming;n;pemrograman
+4677;   cheer;v;bersorak
+4678;   outlet;n;toko
+4679;   intact;j;utuh
+4680;   vendor;n;penjaja
+4681;   thrive;v;berkembang
+4682;   peanut;n;kacang
+4683;   chew;v;mengunyah
+4684;   elaborate;j;rumit
+4685;   intellectual;n;intelektual
+4686;   conception;n;pembuahan
+4687;   auction;n;pelelangan
+4688;   steak;n;daging panggang
+4689;   comply;v;memenuhi
+4690;   triumph;n;kemenangan
+4691;   shareholder;n;pemegang saham
+4692;   comparable;j;dapat dibandingkan
+4693;   transport;v;mengangkut
+4694;   conscience;n;hati nurani
+4695;   calculation;n;perhitungan
+4696;   considerably;r;sangat
+4697;   interval;n;jeda waktu
+4698;   scratch;v;menggaruk
+4699;   awake;j;bangun
+4700;   jurisdiction;n;yurisdiksi
+4701;   inevitably;r;mau tak mau
+4702;   feminist;j;feminis
+4703;   constraint;n;paksaan
+4704;   emotionally;r;dengan emosi
+4705;   expedition;n;ekspedisi
+4706;   allegedly;r;diduga
+4707;   compromise;v;berkompromi
+4708;   strain;v;menyiksa
+4709;   similarity;n;kesamaan
+4710;   butt;n;pantat
+4711;   lid;n;tutup
+4712;   dumb;j;bodoh
+4713;   bulk;n;jumlah besar
+4714;   sprinkle;v;memerciki
+4715;   mortality;n;kematian
+4716;   philosophical;j;filosofis
+4717;   conversion;n;perubahan
+4718;   patron;n;pelindung
+4719;   municipal;j;berkaitan dengan kota
+4720;   any;r;apa saja
+4721;   liver;n;hati
+4722;   harmony;n;harmoni
+4723;   solely;r;semata-mata
+4724;   tolerance;n;toleransi
+4725;   instant;n;instan
+4726;   goat;n;kambing
+4727;   arm;v;mempersenjatai
+4728;   blessing;n;berkat
+4729;   banana;n;pisang
+4730;   running;n;aktivitas lari
+4731;   palace;n;istana
+4732;   formerly;r;dahulu
+4733;   peasant;n;petani
+4734;   neat;j;rapi
+4735;   grandparent;n;eyang
+4736;   lawmaker;n;anggota parlemen
+4737;   supermarket;n;supermarket
+4738;   cruise;n;pelayaran
+4739;   mobile;j;mudah bergerak
+4740;   plain;n;daratan
+4741;   part;i;bagian
+4742;   calendar;n;kalender
+4743;   widow;n;janda
+4744;   deposit;n;deposito
+4745;   beard;n;jenggot
+4746;   brake;n;rem
+4747;   downtown;r;pusat kota
+4748;   screening;n;penyaringan
+4749;   impulse;n;dorongan
+4750;   forbid;v;melarang
+4751;   fur;n;bulu
+4752;   brutal;j;brutal
+4753;   predator;n;pemangsa
+4754;   poke;v;menyodok
+4755;   opt;v;memilih
+4756;   voluntary;j;sukarela
+4757;   trouble;v;menyusahkan
+4758;   valid;j;sah
+4759;   forum;n;forum
+4760;   dancing;n;tarian
+4761;   happily;r;dengan senang hati
+4762;   soar;v;melonjak
+4763;   removal;n;pemindahan
+4764;   autonomy;n;otonomi
+4765;   enact;v;menetapkan
+4766;   round;v;mengitari
+4767;   thread;n;benang
+4768;   light;i;cahaya
+4769;   landmark;n;tonggak batas
+4770;   unhappy;j;tidak bahagia
+4771;   offender;n;pelanggar
+4772;   coming;j;yg akan datang
+4773;   privately;r;secara pribadi
+4774;   fraction;n;pecahan
+4775;   distinctive;j;khusus
+4776;   tourism;n;pariwisata
+4777;   threshold;n;ambang
+4778;   calm;j;tenang
+4779;   routinely;r;secara rutin
+4780;   suite;n;rangkaian
+4781;   remark;v;mengeluarkan pendapat
+4782;   regulator;n;pengatur
+4783;   straw;n;sedotan
+4784;   theological;j;teologis
+4785;   apart;i;selain
+4786;   exhaust;v;menguras
+4787;   globe;n;bola dunia
+4788;   fragile;j;rapuh
+4789;   objection;n;keberatan
+4790;   chemistry;n;kimia
+4791;   old-fashioned;j;kuno
+4792;   crowded;j;ramai
+4793;   circle;v;mengelilingi
+4794;   blast;n;ledakan
+4795;   prevail;v;menang
+4796;   overnight;r;semalam
+4797;   denial;n;penyangkalan
+4798;   rental;n;pesewaan
+4799;   fantastic;j;fantastis
+4800;   fragment;n;pecahan
+4801;   level;j;datar
+4802;   screw;v;memutarkan
+4803;   warmth;n;kehangatan
+4804;   undergraduate;n;sarjana
+4805;   liquid;j;cair
+4806;   headache;n;sakit kepala
+4807;   policeman;n;polisi
+4808;   yield;n;hasil
+4809;   projection;n;proyeksi
+4810;   battle;v;bertarung
+4811;   suitable;j;cocok
+4812;   mention;n;sebutan
+4813;   graduation;n;wisuda
+4814;   drill;v;mengebor
+4815;   cruel;j;kejam
+4816;   mansion;n;rumah besar
+4817;   regard;n;perihal
+4818;   grape;n;buah anggur
+4819;   authorize;v;mengizinkan
+4820;   cottage;n;pondok
+4821;   driveway;n;jalan masuk
+4822;   charm;n;pesona
+4823;   sexuality;n;seks
+4824;   loyal;j;setia
+4825;   clay;n;tanah liat
+4826;   pound;v;menumbuk
+4827;   balloon;n;balon
+4828;   invention;n;penemuan
+4829;   ego;n;ego
+4830;   fare;n;tarif
+4831;   homework;n;pekerjaan rumah
+4832;   disc;n;cakram
+4833;   sofa;n;sofa
+4834;   guarantee;n;jaminan
+4835;   availability;n;ketersediaan
+4836;   radar;n;radar
+4837;   frown;v;mengerut
+4838;   regain;v;mendapatkan kembali
+4839;   leave;n;cuti
+4840;   permit;n;izin
+4841;   sweater;n;sweter
+4842;   rehabilitation;n;rehabilitasi
+4843;   rubber;j;karet
+4844;   retreat;n;mundurnya
+4845;   molecule;n;molekul
+4846;   freely;r;bebas
+4847;   favorable;j;baik
+4848;   steadily;r;terus-terusan
+4849;   veteran;j;veteran
+4850;   integrated;j;terpadu
+4851;   ha;u;ha
+4852;   youngster;n;pemuda
+4853;   broadcast;v;menyiarkan
+4854;   premium;n;premium
+4855;   accountability;n;akuntabilitas
+4856;   overwhelm;v;membanjiri
+4857;   one-third;m;sepertiga
+4858;   contemplate;v;merenungkan
+4859;   update;v;memperbarui
+4860;   spark;v;mencetuskan
+4861;   ironically;r;ironisnya
+4862;   fatigue;n;kelelahan
+4863;   beyond;r;jauh
+4864;   speculate;v;berspekulasi
+4865;   marker;n;penanda
+4866;   low;r;rendah
+4867;   preach;v;berkhotbah
+4868;   bucket;n;ember
+4869;   bomb;v;mengebom
+4870;   blond;j;berambut pirang
+4871;   confession;n;pengakuan
+4872;   provoke;v;memprovokasi
+4873;   marble;n;marmer
+4874;   substantially;r;secara substansial
+4875;   twist;n;memutar
+4876;   defender;n;pembela
+4877;   fish;v;memancing
+4878;   explicit;j;eksplisit
+4879;   transport;n;angkutan
+4880;   disturbing;j;bersifat mengganggu
+4881;   surveillance;n;pengawasan
+4882;   magnetic;j;bersifat seperti magnet
+4883;   technician;n;teknisi
+4884;   mutter;v;bergumam
+4885;   devastating;j;yg menghancurkan
+4886;   depart;v;berangkat
+4887;   arrow;n;panah
+4888;   trauma;n;trauma
+4889;   neighboring;j;berdekatan
+4890;   soak;v;merendam
+4891;   ribbon;n;pita
+4892;   meantime;n;sementara itu
+4893;   transmit;v;mengirimkan
+4894;   screen;v;menyaring
+4895;   harvest;n;panen
+4896;   consecutive;j;berurutan
+4897;   republican;j;republik
+4898;   coordinate;v;berkoordinasi
+4899;   worldwide;j;di seluruh dunia
+4900;   within;r;dalam
+4901;   spy;n;pengintai
+4902;   slot;n;slot
+4903;   riot;n;kerusuhan
+4904;   nutrient;n;gizi
+4905;   citizenship;n;kewarganegaraan
+4906;   severely;r;sangat parah
+4907;   sovereignty;n;kedaulatan
+4908;   ridge;n;punggung bukit
+4909;   brave;j;berani
+4910;   lighting;n;penerangan
+4911;   specify;v;menentukan
+4912;   contributor;n;penyumbang
+4913;   frustrate;v;mengandaskan
+4914;   crowd;v;berkerumun
+4915;   articulate;v;mengucapkan dgn jelas
+4916;   importantly;r;yang penting
+4917;   transit;n;persinggahan
+4918;   dense;j;padat
+4919;   seminar;n;seminar
+4920;   electronics;n;elektronik
+4921;   sunny;j;cerah
+4922;   shorts;n;celana pendek
+4923;   swell;v;membengkak
+4924;   accusation;n;tuduhan
+4925;   soften;v;melunakkan
+4926;   photograph;v;memfoto
+4927;   straighten;v;meluruskan
+4928;   terribly;r;sangat
+4929;   cue;n;isyarat
+4930;   sudden;r;tiba-tiba
+4931;   bride;n;pengantin
+4932;   biography;n;biografi
+4933;   hazard;n;bahaya
+4934;   compelling;j;menarik
+4935;   seldom;r;jarang
+4936;   tile;n;ubin
+4937;   economically;r;secara ekonomis
+4938;   honestly;r;secara jujur
+4939;   troubled;j;bermasalah
+4940;   bow;v;membungkuk
+4941;   twentieth;m;keduapuluh
+4942;   balanced;j;seimbang
+4943;   foreigner;n;orang asing
+4944;   launch;n;peluncuran
+4945;   convenience;n;kenyamanan
+4946;   delight;n;kesenangan
+4947;   weave;v;menenun
+4948;   timber;n;kayu pepohonan
+4949;   till;c;sampai
+4950;   accurately;r;secara akurat
+4951;   plea;n;permohonan
+4952;   bulb;n;bohlam
+4953;   copy;v;menyalin
+4954;   flying;j;yang terbang
+4955;   sustainable;j;berkelanjutan
+4956;   devil;n;setan
+4957;   bolt;n;baut
+4958;   cargo;n;muatan
+4959;   spine;n;tulang belakang
+4960;   seller;n;penjual
+4961;   skilled;j;terampil
+4962;   managing;j;mengelola
+4963;   public;r;umum
+4964;   marine;j;berkaitan dengan laut
+4965;   dock;n;dermaga
+4966;   organized;j;terorganisir
+4967;   fog;n;kabut
+4968;   diplomat;n;diplomat
+4969;   boring;j;bosan
+4970;   sometime;r;beberapa waktu
+4971;   summary;n;ringkasan
+4972;   missionary;n;misionaris
+4973;   epidemic;n;wabah
+4974;   fatal;j;fatal
+4975;   trim;v;memangkas
+4976;   warehouse;n;gudang
+4977;   accelerate;v;mempercepat
+4978;   butterfly;n;kupu-kupu
+4979;   bronze;n;perunggu
+4980;   drown;v;menenggelamkan
+4981;   inherent;j;inheren
+4982;   praise;n;pujian
+4983;   nationwide;r;senegeri
+4984;   spit;v;meludah
+4985;   harvest;v;memanen
+4986;   kneel;v;berlutut
+4987;   vacuum;n;kekosongan
+4988;   selected;j;terpilih
+4989;   dictate;v;mendikte
+4990;   stereotype;n;stereotip
+4991;   sensor;n;sensor
+4992;   laundry;n;cucian
+4993;   manual;n;buku petunjuk
+4994;   pistol;n;pistol
+4995;   naval;j;angkatan laut
+4996;   plaintiff;n;penggugat
+4997;   kid;v;memperolokkan
+4998;   middle-class;j;kelas menengah
+4999;   apology;n;permintaan maaf
+5000;   till;i;sampai
