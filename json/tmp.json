@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "word": "the",
+    "pos_id": 1,
+    "translate": "itu, sang, -nya"
+  },
+  {
+    "id": 2,
+    "word": "be",
+    "pos_id": 12,
+    "translate": "menjadi"
+  },
+  {
+    "id": 3,
+    "word": "and",
+    "pos_id": 2,
+    "translate": "dan"
+  },
+  {
+    "id": 4,
+    "word": "of",
+    "pos_id": 4,
+    "translate": "dari"
+  },
+  {
+    "id": 5,
+    "word": "a",
+    "pos_id": 1,
+    "translate": "Sebuah"
+  }
+]

@@ -13,6 +13,8 @@ entity "users" as u {
   email : string
   password : string
   role_id : int
+  created_at : int
+  updated_at : int
 }
 
 entity "words" as w {
@@ -20,45 +22,68 @@ entity "words" as w {
   --
   word : string
   pos_id : int
-  sentence_id : int
+  answer_key : string
+  created_at : int
 }
 
 entity "pos" as p {
   *Id : int <<generated>>
   --
   desc : string
-  alias : string 
+  alias : string
+  created_at : int
 }
 
 entity "sentences" as s {
   *Id : int <<generated>>
   --
-  sentence : string
-  image_url : string 
+  created_at : int
 }
 
-entity "words_acc" as wac {
-  *Id : int <<generated>>
+entity "sentences_detail" as sd {
+  word_id : int
+  sentence_id : int
   --
-  word_id : string
-  user_id : string 
+  sentence : string
+  image_url : string
+  created_at : int
+  updated_at : int
 }
+
+' entity "words_acc" as wac {
+'   *Id : int <<generated>>
+'   --
+'   word_id : string
+'   user_id : string 
+' }
 
 entity "words_add" as wad {
   *Id : int <<generated>>
   --
   word : string
-  pos_id : int 
-  sentence_id : int
+  pos_id : int
+  answer_key : string
+  created_at : int
+}
+
+entity "daily_acc" as da {
+  *id : int <<generated>>
+  --
+  total : int
+  user_id : int
+  created_at : int
+  updated_at : int
 }
 
 r ||--|{ u
-w ||--|| s
-wad ||--|| s
+w ||--|{ sd
+s ||--|{ sd
+wad ||--|{ sd
 p ||--|{ w
 p ||--|{ wad
-u ||--|{ wac
-w ||--|{ wac
-wad ||--|{ wac
+u ||--|| da
+' u ||--|{ wac
+' w ||--|{ wac
+' wad ||--|{ wac
 
 @enduml
